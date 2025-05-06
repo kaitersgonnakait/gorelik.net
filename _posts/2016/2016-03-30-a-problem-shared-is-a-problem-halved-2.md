@@ -18,15 +18,15 @@ coverImage: "/assets/images/2016/03/a-problem-shared-is-a-problem-halved.png"
 
 ![](/assets/images/2016/03/1200px-Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg)_Socially active bloggers, and bloggers who write in teams tend to write a blog for longer times._
 
-Writing a blog is a hard and demanding task. It requires creativity, dedication and persistence. Data shows that a large percentage of bloggers stop posting after a couple of months, and most of them don’t survive for more than a year. What is the force that drives the successful bloggers? What factors distinguish the persistent bloggers from the “quitters”? Is there anything a person can do to increase his or her chances to keep blogging and not to quit?
+Writing a blog is a hard and demanding task. It requires creativity, dedication and persistence. Data shows that a large percentage of bloggers stop posting after a couple of months, and most of them don’t survive for more than a year. What is the force that drives the successful bloggers? What factors distinguish the persistent bloggers from the “quitters”? Is there anything a person can do to increase his or her chances to keep blogging and not to quit?
 
- 
+ 
 
 ### Competing theories
 
 The research that I will present here was performed in collaboration with Lior Zalmanson, a post-doc researcher at Stern School of Business New York University. In this study, we asked ourselves whether people can increase their chance to keep blogging by joining forces.
 
-Whether people work better in groups or as individuals is an open and long-debated question in social psychology. On one hand, there is a phenomenon of “Social Loafing” -- a phenomenon that was first described by a French agricultural engineer Maximilien Ringelmann in 1913. According to Ringelmann’s findings, having group members work together on a task results in significantly less effort than when individual members are acting alone \[[Wikipedia](https://en.wikipedia.org/wiki/Ringelmann_effect), [Original paper](http://gallica.bnf.fr/ark:/12148/bpt6k54409695.image.f14.langEN)\].
+Whether people work better in groups or as individuals is an open and long-debated question in social psychology. On one hand, there is a phenomenon of “Social Loafing” &mdash; a phenomenon that was first described by a French agricultural engineer Maximilien Ringelmann in 1913. According to Ringelmann’s findings, having group members work together on a task results in significantly less effort than when individual members are acting alone \[[Wikipedia](https://en.wikipedia.org/wiki/Ringelmann_effect), [Original paper](http://gallica.bnf.fr/ark:/12148/bpt6k54409695.image.f14.langEN)\].
 
 On the other hand, Otto Köhler, a German psychologist, has found in 1926 that the weaker group members strive to keep up with the accomplishment of the other group members, which results in an overall performance improvement \[[Enc Britanica](http://www.britannica.com/topic/Kohler-effect)\]. The effect of “Social Compensation” was suggested by [Karau and Williams in 1991](http://www.communicationcache.com/uploads/1/0/8/8/10887248/social_loafing_and_social_compensation-_the_effects_of_expectations_of_co-worker_performance.pdf). According to their observations, a worker will work harder in groups, compensating for those who work less.
 
@@ -48,7 +48,7 @@ For the sake of our discussion, let’s assume that Alice writes posts in anothe
 
 ![halved_03](/assets/images/2016/03/halved_03.png?w=730)
 
-We want to know how collaboration affects authors’ persistence. In other words: does the number of collaborators an author has have an impact on the probability that that author will keep blogging for a longer time. In this toy example, Alice has three collaborators (Bob, Daphne and Eve), Daphne and Eve have both two collaborators; Bob has only one collaborator (Alice), and Charlie has no collaborators at all. In order not to upset writers who write alone, we will consider a person a partner of him- or her- selves. Thus, for the purpose of our analysis, Alice has four collaborators (including herself), Daphne and Eve have three, and Bob has two collaborators.
+We want to know how collaboration affects authors’ persistence. In other words: does the number of collaborators an author has have an impact on the probability that that author will keep blogging for a longer time. In this toy example, Alice has three collaborators (Bob, Daphne and Eve), Daphne and Eve have both two collaborators; Bob has only one collaborator (Alice), and Charlie has no collaborators at all. In order not to upset writers who write alone, we will consider a person a partner of him- or her- selves. Thus, for the purpose of our analysis, Alice has four collaborators (including herself), Daphne and Eve have three, and Bob has two collaborators.
 
 | Author | \# of collaborators |
 | --- | --- |

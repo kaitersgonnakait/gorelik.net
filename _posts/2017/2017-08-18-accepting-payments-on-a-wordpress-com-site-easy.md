@@ -14,4 +14,4 @@ This is an exciting feature available to any WordPress.com Premium and Business 
 
 \[simple-payment id="757"\]
 
-[This page](https://en.support.wordpress.com/simple-payments/) has all the information you need to know about the PayPal button.
+[This page](https://en.support.wordpress.com/simple-payments/) has all the information you need to know about the PayPal button.

@@ -6,7 +6,7 @@ categories:
   - "blog"
 ---
 
- 
+ 
 
 \[gallery ids="2190,2189" type="rectangular" link="none"\]
 

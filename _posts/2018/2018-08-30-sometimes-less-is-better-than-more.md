@@ -19,8 +19,8 @@ Frankly speaking, I was in a panic. I even considered contacting EuroSciPy organ
 
 \[slideshare id=112261825&doc=20180830abcthreemostcommonmistakescopy-180830134825\]
 
- 
+ 
 
- 
+ 
 
-Illustration image credit: [Photo by Jo Szczepanska on Unsplash](https://unsplash.com/photos/9OKGEVJiTKk)
+Illustration image credit: [Photo by Jo Szczepanska on Unsplash](https://unsplash.com/photos/9OKGEVJiTKk)

@@ -25,4 +25,4 @@ Now, look what happens when we fix the horizontal and vertical lines
 
 ![Screen Shot 2018-11-05 at 8.39.03](/assets/images/2018/11/screen-shot-2018-11-05-at-8-39-03.png)
 
-Now, Khrushchev is still shorter than Stalin but not by that much.
+Now, Khrushchev is still shorter than Stalin but not by that much.

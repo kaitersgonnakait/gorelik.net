@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dual axis with shared x-axis -- a much better way"
+title: "Dual axis with shared x-axis &mdash; a much better way"
 date: 2024-11-17
 categories: 
   - "blog"

@@ -26,4 +26,4 @@ One can use a sheet of paper, a whiteboard, or a drawing application. You may re
 
 \* Initially, I wanted to use the term "pseudograph" but the network scientists already took it for themselves.
 
-\*\* The first sentence of this post is a taken from the [Wikipedia](https://en.wikipedia.org/wiki/Pseudocode).
+\*\* The first sentence of this post is a taken from the [Wikipedia](https://en.wikipedia.org/wiki/Pseudocode).

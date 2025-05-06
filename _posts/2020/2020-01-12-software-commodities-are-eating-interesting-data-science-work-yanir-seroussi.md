@@ -23,6 +23,6 @@ Anyhow, read Yanir's post linked below.
 
 ![](/assets/images/2020/01/pacman.png?quality=80&strip=info&w=1600)
 
-> The passage of time makes wizards of us all. Today, any dullard can make bells ring across the ocean by tapping out phone numbers, cause inanimate toys to march by barking an order, or activate remote devices by touching a wireless screen. Thomas Edison couldn’t have managed any of this at his peak—and shortly before \[…\]
+> The passage of time makes wizards of us all. Today, any dullard can make bells ring across the ocean by tapping out phone numbers, cause inanimate toys to march by barking an order, or activate remote devices by touching a wireless screen. Thomas Edison couldn’t have managed any of this at his peak—and shortly before \[…\]
 > 
 > [Software commodities are eating interesting data science work — Yanir Seroussi](http://yanirseroussi.com/2020/01/11/software-commodities-are-eating-interesting-data-science-work/)

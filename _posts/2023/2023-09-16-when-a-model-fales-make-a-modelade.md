@@ -20,7 +20,7 @@ After working our modeling magic, we ended up with a predictive model that was "
 
 ## Statistically Significant but Practically Useless
 
-The graph indeed looks promising: the correlation coefficient was over 0.95, and the p-value (I can't believe I'm resorting to this!) was 0.00000001, which is considered "excellent." 
+The graph indeed looks promising: the correlation coefficient was over 0.95, and the p-value (I can't believe I'm resorting to this!) was 0.00000001, which is considered "excellent." 
 
 However, there's the rub: echoing an old Russian proverb, "you can't spread the p-value on your bread", or to quote a less old Hebrew saying, "you can't pay with a correlation coefficient at the grocery store." Statistical tests demonstrate the existence of a connection between your model and reality. Yet, this connection isn't sufficient for making informed decisions due to the excessively high spread in our case.
 
@@ -36,6 +36,6 @@ However, there's another side to this. What hasn't been mentioned is that the "o
 
 ## A happy ending?
 
-The typical "war story" of a freelance consultant generally concludes with the client accepting the consultant's insights, raking in substantial profits, and treating the consultant to a swanky race car. Let's pretend that this is what happened, despite the reality: my client listened to my take and decided to invest their resources in procuring more high-quality data. 
+The typical "war story" of a freelance consultant generally concludes with the client accepting the consultant's insights, raking in substantial profits, and treating the consultant to a swanky race car. Let's pretend that this is what happened, despite the reality: my client listened to my take and decided to invest their resources in procuring more high-quality data. 
 
 Of course, if you ever need help with your modeling, feel free to reach out to me. And if a model doesn't turn out as productive as you'd hoped, we can always attempt to make a rewarding 'modelade' from it. I'm always reachable at boris@gorelik.net.

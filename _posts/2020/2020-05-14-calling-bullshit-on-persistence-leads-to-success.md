@@ -12,7 +12,7 @@ tags:
 coverImage: "/assets/images/2020/05/survivorship-bias.png"
 ---
 
-Did you know that J.K. Rowling, the author of Harry Potter, [submitted her books 13 times before it was accepted](https://gorelik.net/2019/09/16/book-review-the-formula-by-a-l-barabasi/)? Did you know that Thomas Edison tried again and again, even though his teachers thought he was "too stupid to learn anything?" Did you know that Lior Raz (Fauda's creator and lead actor) was an anonymous actor for more than ten years before he broke the barrier of anonymity? What do these all people have in common? They persisted, and they succeeded. BUT, and there is a big but.
+Did you know that J.K. Rowling, the author of Harry Potter, [submitted her books 13 times before it was accepted](https://gorelik.net/2019/09/16/book-review-the-formula-by-a-l-barabasi/)? Did you know that Thomas Edison tried again and again, even though his teachers thought he was "too stupid to learn anything?" Did you know that Lior Raz (Fauda's creator and lead actor) was an anonymous actor for more than ten years before he broke the barrier of anonymity? What do these all people have in common? They persisted, and they succeeded. BUT, and there is a big but.
 
 ![girl wearing pink framed sunglasses](/assets/images/2020/05/photo-1518548183878-5e1fcea68bb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
 
@@ -34,7 +34,7 @@ Think of the Martingale betting strategy. In theory, it works. Why doesn't it wo
 
 </figure>
 
-But what about all those successful failers? What we see a typical example of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias), the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. We know the names Rowling, Edison, Raz, and others not because of their multiple failures but DESPITE them. For every Rowling, Edison, and Raz, there are thousands of failed writers, engineers, and actors who ended up broke and caused sorrow to their families.
+But what about all those successful failers? What we see a typical example of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias), the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. We know the names Rowling, Edison, Raz, and others not because of their multiple failures but DESPITE them. For every Rowling, Edison, and Raz, there are thousands of failed writers, engineers, and actors who ended up broke and caused sorrow to their families.
 
 ### So, should I quit?
 

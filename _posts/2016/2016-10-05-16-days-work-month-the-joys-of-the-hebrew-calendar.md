@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "16-days work month -- The joys of the Hebrew calendar"
+title: "16-days work month &mdash; The joys of the Hebrew calendar"
 date: 2016-10-05
 categories: 
   - "blog"
@@ -13,22 +13,22 @@ Tishrei is the seventh month of the Hebrew calendar that starts with Rosh-HaShan
 
 I have counted the number of business days during this 31-day period (one day before the New Year plus the entire month of Tishrei) between 1993 and 2020 CE, and this is what we get:
 
- 
+ 
 
 ![tishrei_working_days](/assets/images/2016/10/tishrei_working_days1.png)
 
- 
+ 
 
 Overall, this period consists of between 15 to 17 non-working days in a single month (31 days, mind you). This is how the working/not-working time during this month looks like this:
 
 ![tishrei_workign_weeks.png](/assets/images/2016/10/tishrei_workign_weeks.png)
 
- 
+ 
 
 Now, having some vacation is nice, but this month is absolutely crazy. There is not a single full working week during this month. It is very similar to constantly interrupted work day, but at a different scale.
 
-So, next time you wonder why your Israeli colleague, customer or partner barely works during September-October, recall this post.
+So, next time you wonder why your Israeli colleague, customer or partner barely works during September-October, recall this post.
 
- 
+ 
 
-(\*) New Year starts in the seventh's month? I know this is confusing. That's because we number Nissan -- the month of the Exodus from Egypt as the first month. (\*\*)If you are an observing Jew, you should add to this list Fast of Gedalia, but we will omit it from this discussion
+(\*) New Year starts in the seventh's month? I know this is confusing. That's because we number Nissan &mdash; the month of the Exodus from Egypt as the first month. (\*\*)If you are an observing Jew, you should add to this list Fast of Gedalia, but we will omit it from this discussion

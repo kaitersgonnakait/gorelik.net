@@ -16,7 +16,7 @@ coverImage: "/assets/images/2019/10/featured_pie.png"
 
 What do we see when we look at slices of a pie chart? Angles? Areas? Arc length? The answer to this question isn't clear and thus "experts" recommend avoiding pie charts at all.
 
-Robert Kosara is a Senior Research Scientist at Tableau Software (you should follow his blog [https://eagereyes.org](https://eagereyes.org/)), who is very active in studying pie charts. In 2016, Robert Kosara and his collaborators published a series of studies about pie charts. There is a nice post called "[An Illustrated Tour of the Pie Chart Study Results](https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results)" that summarizes these studies. 
+Robert Kosara is a Senior Research Scientist at Tableau Software (you should follow his blog [https://eagereyes.org](https://eagereyes.org/)), who is very active in studying pie charts. In 2016, Robert Kosara and his collaborators published a series of studies about pie charts. There is a nice post called "[An Illustrated Tour of the Pie Chart Study Results](https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results)" that summarizes these studies. 
 
 Last week, Robert published another paper with a pretty confident title ("Evidence for Area as the Primary Visual Cue in Pie Charts") and a very inconclusive conclusion
 

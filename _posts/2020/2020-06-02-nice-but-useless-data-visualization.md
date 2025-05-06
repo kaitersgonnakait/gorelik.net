@@ -9,15 +9,15 @@ tags:
   - "worst-practice"
 ---
 
-Network visualization can mesmerize and hypnotize. Chord diagrams are especially cool because they are so colorful and smooth. The problem is that sometimes, the result doesn't provide any actual value, and serves as a cute illustration. Cute illustrations are cute; they help put some "easiness" to the text without the risk of looking too unprofessional. 
+Network visualization can mesmerize and hypnotize. Chord diagrams are especially cool because they are so colorful and smooth. The problem is that sometimes, the result doesn't provide any actual value, and serves as a cute illustration. Cute illustrations are cute; they help put some "easiness" to the text without the risk of looking too unprofessional. 
 
 Take the two examples below.
 
-One example (taken from [here](https://www.data-to-viz.com/graph/chord.html)) shows worldwide migration patterns in a clear and useful way. You can take a look at the graph and make real conclusions.
+One example (taken from [here](https://www.data-to-viz.com/graph/chord.html)) shows worldwide migration patterns in a clear and useful way. You can take a look at the graph and make real conclusions.
 
 ![](/assets/images/2020/06/image.png?w=1024)
 
-The other example (taken from [here](https://fashiontomenandwomens.fashion.blog/2020/03/22/patent-portfolio-mapping-data-visualization/)) is mostly a useless illustration.
+The other example (taken from [here](https://fashiontomenandwomens.fashion.blog/2020/03/22/patent-portfolio-mapping-data-visualization/)) is mostly a useless illustration.
 
 ![](/assets/images/2020/06/image-1.png?w=1024)
 

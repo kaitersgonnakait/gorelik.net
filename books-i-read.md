@@ -40,8 +40,8 @@ Note about the scores: I'm not a literary critic. The rating reflects my subject
 | [Five Stars](https://gorelik.net/2020/06/22/book-review-five-stars-by-carmine-gallo/) | 3.5 |
 | [Lamb: The Gospel According to Biff, Christ's Childhood Pal](The Gospel According to Biff, Christ's Childhood Pal) | 4.5 |
 | [15 Secrets Successful People Know About Time Management](https://www.kevinkruse.com/15-secrets-successful-people-know-about-time-management/) | 3.5 |
-| [The Abyss: Bridging the Divide between Israel and the Arab World](https://gorelik.net/2020/08/20/book-review-the-abyss-bridging-the-divide-between-israel-and-the-arab-world/) | 4.5 |
-| [תבשילים חריפים מהמטבח הטטארי](https://he.gorelik.net/2020/10/01/%d7%91%d7%99%d7%a7%d7%95%d7%a8%d7%aa-%d7%a1%d7%a4%d7%a8-%d7%aa%d7%91%d7%a9%d7%99%d7%9c%d7%99%d7%9d-%d7%97%d7%a8%d7%99%d7%a4%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%98%d7%91%d7%97-%d7%94%d7%98%d7%98%d7%90/) | 4.5 |
+| [The Abyss: Bridging the Divide between Israel and the Arab World](https://gorelik.net/2020/08/20/book-review-the-abyss-bridging-the-divide-between-israel-and-the-arab-world/) | 4.5 |
+| [תבשילים חריפים מהמטבח הטטארי](https://he.gorelik.net/2020/10/01/%d7%91%d7%99%d7%a7%d7%95%d7%a8%d7%aa-%d7%a1%d7%a4%d7%a8-%d7%aa%d7%91%d7%a9%d7%99%d7%9c%d7%99%d7%9d-%d7%97%d7%a8%d7%99%d7%a4%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%98%d7%91%d7%97-%d7%94%d7%98%d7%98%d7%90/) | 4.5 |
 | [Похороните меня за плинтусом. Павел Саваев](https://ru.wikipedia.org/wiki/Похороните_меня_за_плинтусом) | 4.5 |
 |  | 4 |
 |  |  |
@@ -59,8 +59,8 @@ Note about the scores: I'm not a literary critic. The rating reflects my subject
 | [Five Stars](https://gorelik.net/2020/06/22/book-review-five-stars-by-carmine-gallo/) | 3.5 |
 | [Lamb: The Gospel According to Biff, Christ's Childhood Pal](The Gospel According to Biff, Christ's Childhood Pal) | 4.5 |
 | [15 Secrets Successful People Know About Time Management](https://www.kevinkruse.com/15-secrets-successful-people-know-about-time-management/) | 3.5 |
-| [The Abyss: Bridging the Divide between Israel and the Arab World](https://gorelik.net/2020/08/20/book-review-the-abyss-bridging-the-divide-between-israel-and-the-arab-world/) | 4.5 |
-| [תבשילים חריפים מהמטבח הטטארי](https://he.gorelik.net/2020/10/01/%d7%91%d7%99%d7%a7%d7%95%d7%a8%d7%aa-%d7%a1%d7%a4%d7%a8-%d7%aa%d7%91%d7%a9%d7%99%d7%9c%d7%99%d7%9d-%d7%97%d7%a8%d7%99%d7%a4%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%98%d7%91%d7%97-%d7%94%d7%98%d7%98%d7%90/) | 4.5 |
+| [The Abyss: Bridging the Divide between Israel and the Arab World](https://gorelik.net/2020/08/20/book-review-the-abyss-bridging-the-divide-between-israel-and-the-arab-world/) | 4.5 |
+| [תבשילים חריפים מהמטבח הטטארי](https://he.gorelik.net/2020/10/01/%d7%91%d7%99%d7%a7%d7%95%d7%a8%d7%aa-%d7%a1%d7%a4%d7%a8-%d7%aa%d7%91%d7%a9%d7%99%d7%9c%d7%99%d7%9d-%d7%97%d7%a8%d7%99%d7%a4%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%98%d7%91%d7%97-%d7%94%d7%98%d7%98%d7%90/) | 4.5 |
 | [Похороните меня за плинтусом. Павел Саваев](https://ru.wikipedia.org/wiki/Похороните_меня_за_плинтусом) | 4.5 |
 | [Manager in shorts](https://gorelik.net/2020/12/23/book-review-manager-in-shorts-by-gal-zellermayer/) | 4 |
 | [The persuasion slide](https://gorelik.net/2020/12/30/book-review-the-persuasion-slide-by-richard-dooley/) | 1 |
@@ -69,10 +69,10 @@ Note about the scores: I'm not a literary critic. The rating reflects my subject
 
 | Book | Score (X of 5) |
 | --- | --- |
-| [Surely You’re Joking, Mr. Feynman!](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) | 4.5 |
-| [The Formula by A. L Barabasi](https://gorelik.net/2019/09/16/book-review-the-formula-by-a-l-barabasi/) | 4 |
-| [The War of Art (note: NOT "the art of war")](https://gorelik.net/2019/10/10/book-review-the-war-of-art-by-s-pressfield/) | 3 |
-| [A Short History of Nearly Everything by Bill Bryson](https://gorelik.net/2019/12/02/book-review-a-short-history-of-nearly-everything-by-bill-bryson/) | 3.5 |
+| [Surely You’re Joking, Mr. Feynman!](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) | 4.5 |
+| [The Formula by A. L Barabasi](https://gorelik.net/2019/09/16/book-review-the-formula-by-a-l-barabasi/) | 4 |
+| [The War of Art (note: NOT "the art of war")](https://gorelik.net/2019/10/10/book-review-the-war-of-art-by-s-pressfield/) | 3 |
+| [A Short History of Nearly Everything by Bill Bryson](https://gorelik.net/2019/12/02/book-review-a-short-history-of-nearly-everything-by-bill-bryson/) | 3.5 |
 | [Replay](https://gorelik.net/2020/01/20/book-review-replay-by-ken-grimwood/) | 5 |
 | [Eichmann in Jerusalem](https://www.goodreads.com/book/show/52090.Eichmann_in_Jerusalem) | 5 |
 | Lifescale | 4 |

@@ -121,31 +121,31 @@ You can always take initiative and start working on something that really intere
 
 In our company, you can write your own history. Identify a problem, start working on a solution in your spare time, and one day you may convince the management that the solution is worth adopting and expanding.
 
-DAPHNE 
+DAPHNE 
 
-(sarcastically) 
+(sarcastically) 
 
 Free time? You must be kidding.
 
-BORIS 
+BORIS 
 
 For once, I agree with Laura. We have some free time, and moderate switching between projects might be a good form of rest. Not only that, but a technical hands-on person might also have more tools to solve a technical problem. But… a manager usually has better knowledge of company needs and, more importantly, company politics. That is why a manager's pet project has a higher chance of being accepted by the company than the one initiated by an IC.
 
-LAURA 
+LAURA 
 
-(doubtful) 
+(doubtful) 
 
 Hmm… I don't know... Well, at least in terms of money, management isn't promotion.
 
 ## Part 3. Money
 
-BORIS 
+BORIS 
 
 (Chuckles)
 
 Ah, money. Who doesn't love money? However, I'm afraid I must disagree with you on this one.
 
-LAURA 
+LAURA 
 
 (Joyfully)
 
@@ -155,31 +155,31 @@ Well, as the head of HR, not you, I understand how compensation is calculated. Y
 
 It's all about the impact!
 
-BORIS 
+BORIS 
 
 (Points a finger)
 
 Correct. I presume that when you talk about these managers, you're primarily referring to team leads. Am I right?
 
-LAURA 
+LAURA 
 
 (Pauses, then nods)
 
 Actually, yes.
 
-BORIS 
+BORIS 
 
 (Chuckles)
 
 You see, a team lead may earn less than a developer, researcher, or designer they manage, especially if they oversee senior and experienced professionals. But who can bring a greater impact to the business: a senior programmer or a senior manager?
 
-DAPHNE 
+DAPHNE 
 
 (Looks puzzled)
 
 What do you mean?
 
-BORIS 
+BORIS 
 
 (Turns to Daphne)
 
@@ -189,11 +189,11 @@ Let's take me as an example. I'm an outstanding data scientist, one of the best 
 
 Nevertheless, my brain operates optimally only 8-9 hours a day. On the other hand, David, the head of the Modelling division, is also a top-tier professional, and he too works 8-9 hours a day. But since he is at the helm of a division, his work is amplified by the ten people who work under him.
 
-LAURA 
+LAURA 
 
 There are thirteen now; we've hired two additional scientists.
 
-BORIS 
+BORIS 
 
 (Turns to Daphne)
 
@@ -203,33 +203,33 @@ Everyone falls silent. Boris signals for a refill. Daphne appears dejected.
 
 ## Part 4. Don’t lose your sleep over this
 
-BORIS 
+BORIS 
 
-(Looks at Daphne) 
+(Looks at Daphne) 
 
 Don't lose sleep over this.
 
 Boris takes a salt shaker, opens it, pours the salt onto the table, and draws two partially overlapping bell curves.
 
-BORIS 
+BORIS 
 
 Here's an analogy. Consider men and women. On average, men are stronger than women, right?
 
 Laura and Daphne nod their heads. Laura looks concerned, anticipating that Boris might say something stupidly inappropriate.
 
-BORIS 
+BORIS 
 
-(Points to the salt) 
+(Points to the salt) 
 
 In this graph, the X-axis represents strength, and the two curves represent men and women. Now, what does this mean? Does it mean that all men are stronger than all women? Certainly not! There are many strong women and many weak men! You can see this by looking at the overlapping part of these curves here.
 
 He points to the intersecting area of the two curves drawn in the salt.
 
-BORIS 
+BORIS 
 
-(Continues) 
+(Continues) 
 
-Now, let's return to our original discussion. Let's say that the X-axis now stands for "promotion" -- a vague amalgamation of social status, power, and money. I hope I've convinced you that management is a form of promotion, but consider these curves. As in the men versus women case, there will be many individual contributors positioned higher on the promotion axis than some managers.
+Now, let's return to our original discussion. Let's say that the X-axis now stands for "promotion" &mdash; a vague amalgamation of social status, power, and money. I hope I've convinced you that management is a form of promotion, but consider these curves. As in the men versus women case, there will be many individual contributors positioned higher on the promotion axis than some managers.
 
 Laura looks relieved. Daphne is deep in thought.
 
@@ -241,33 +241,33 @@ The atmosphere in the room becomes dense with contemplation.
 
 ## Part 5. You have to like your job
 
-BORIS 
+BORIS 
 
-(pensively) 
+(pensively) 
 
 You're right but also somewhat wrong. Becoming good at your work is hard. It becomes even harder if you don't enjoy it. If you like managing people, go for it. Enjoy the process, grow your skills, and plan the mansion you want to buy when you're a big-shot CEO.
 
 He takes a sip of his drink.
 
-BORIS 
+BORIS 
 
-(continuing) 
+(continuing) 
 
 But if you enjoy writing good code more than dealing with people, you might become miserable during your quest for a management career. Being miserable won't leave enough energy to improve your skills, and you might end up as a mediocre, bitter, mid-level manager who's jealous of her younger self.
 
 Laura smiles in agreement.
 
-BORIS 
+BORIS 
 
-(sincerely) 
+(sincerely) 
 
 I fully agree with that. In the past, in some companies, such a move would be perceived as a demotion, but now and not here. Nowadays, many companies, small and big, recognize that management is a separate profession. The atmosphere in our company is kind enough to accept that people need to search for their path in life. Take me for example I "stepped down" from a management position twice. I don’t regret taking those positions. Neither do I regret stepping down from them.
 
 Daphne looks thoughtful, contemplating the information she's received.
 
-DAPHNE 
+DAPHNE 
 
-(tentatively) 
+(tentatively) 
 
 I think I need to explore more about myself. I need to see what suits me best. But I guess I won't know until I try.
 
@@ -275,9 +275,9 @@ Laura and Boris share a look of approval.
 
 Boris raises his glass for a toast.
 
-BORIS 
+BORIS 
 
-(smiling) 
+(smiling) 
 
 To exploration and finding what truly makes us happy!
 

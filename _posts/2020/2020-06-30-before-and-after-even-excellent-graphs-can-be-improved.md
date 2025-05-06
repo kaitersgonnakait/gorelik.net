@@ -13,7 +13,7 @@ tags:
 
 Being a data visualization consultant, I can't help looking for dataviz problems in graphs that I see. Even if the graph is good. Even if I know that I would not be able to create a graph that good. Even if the overall graph is excellent, and the problems are minor, or maybe especially when the graph is excellent, and the problems are minor.
 
-This is a nice graph published by [Nevo Benita on Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6683047397792194560/).
+This is a nice graph published by [Nevo Benita on Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6683047397792194560/).
 
 ![](/assets/images/2020/06/image-7.png?w=800)
 
@@ -48,7 +48,7 @@ Moving the explanation to the top makes it easier to notice. Before (left) and a
 
 </figure>
 
-The last point that is worth optimizing is the color order. Consistent element order in an image makes navigation and comprehension much easier. When the order is preserved, our brain can use mental shortcuts without losing much information. When these shortcuts are broken, the brain has to work harder. What am I talking about? The graph author made the correct decision to use different font colors in the graph title to specify which color stands for which gender. This way, we don't need a separate legend, and this is good. The title is an ordered sequence of words. The visualizer could use this order to create the order heuristic that is so helpful. Such a heuristic isn't always possible. Fortunately for the visualizer (and sadly for the society), the salary gap in all the occupations in this graph have the same direction: men earn more than women. As a result, the rightmost part has all the green dots on the right, and the purple dots are on the left. This direction is opposite to the gender direction in the title and the color direction in the bar chart. To fix this situation, I made sure that the color that stands for the women (purple) is always to the left of the color that designates the men (green).
+The last point that is worth optimizing is the color order. Consistent element order in an image makes navigation and comprehension much easier. When the order is preserved, our brain can use mental shortcuts without losing much information. When these shortcuts are broken, the brain has to work harder. What am I talking about? The graph author made the correct decision to use different font colors in the graph title to specify which color stands for which gender. This way, we don't need a separate legend, and this is good. The title is an ordered sequence of words. The visualizer could use this order to create the order heuristic that is so helpful. Such a heuristic isn't always possible. Fortunately for the visualizer (and sadly for the society), the salary gap in all the occupations in this graph have the same direction: men earn more than women. As a result, the rightmost part has all the green dots on the right, and the purple dots are on the left. This direction is opposite to the gender direction in the title and the color direction in the bar chart. To fix this situation, I made sure that the color that stands for the women (purple) is always to the left of the color that designates the men (green).
 
 <figure>
 

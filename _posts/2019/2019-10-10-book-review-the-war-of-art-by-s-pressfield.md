@@ -17,20 +17,20 @@ TL;DR: This is a long motivational book that is “too spiritual” for the cyni
 
 ![The War of Art by [Pressfield, Steven]](/assets/images/2019/10/41ET8OFVFCL.jpg)
 
-[The War of Art](https://amzn.to/35dPsUZ) is a strange book. I read it because “everybody” recommended it. This is what Derek Sivers’ [book recommendation page](https://sivers.org/book) says about this book
+[The War of Art](https://amzn.to/35dPsUZ) is a strange book. I read it because “everybody” recommended it. This is what Derek Sivers’ [book recommendation page](https://sivers.org/book) says about this book
 
 ```
 Have you experienced a vision of the person you might become, the work you could accomplish, the realized being you were meant to be? Are you a writer who doesn’t write, a painter who doesn’t paint, an entrepreneur who never starts a venture? Then you know what “Resistance” is.
 ```
 
-As a known procrastinator, I was intrigued and started reading. In the beginning, the book was pretty promising. The first (and, I think, the biggest) part of the book is about “Resistance” -- the force behind the procrastination. I immediately noticed that almost every sentence in this chapter could serve a motivational poster. For example
+As a known procrastinator, I was intrigued and started reading. In the beginning, the book was pretty promising. The first (and, I think, the biggest) part of the book is about “Resistance” &mdash; the force behind the procrastination. I immediately noticed that almost every sentence in this chapter could serve a motivational poster. For example
 
 - It’s not the writing part that’s hard. What’s hard is sitting down to write.
 - The danger is greatest when the finish line is in sight.
 - The most pernicious aspect of procrastination is that it can become a habit.
 - The more scared we are of a work or calling, the more sure we can be that we have to do it.
 
-Individually, each sentence makes sense, but their concentration was a bit too much for me. The way Pressfield talks about Resistance resembles the way Jewish preachers talk about [Yetzer Hara](https://en.wikipedia.org/wiki/Yetzer_hara): it sits everywhere, waiting for you to fail. I’ tdon’t like this approach.
+Individually, each sentence makes sense, but their concentration was a bit too much for me. The way Pressfield talks about Resistance resembles the way Jewish preachers talk about [Yetzer Hara](https://en.wikipedia.org/wiki/Yetzer_hara): it sits everywhere, waiting for you to fail. I’ tdon’t like this approach.
 
 The next chapters were even harder for me to digest. Pressfield started talking about Muses, gods, prayers, and other “spiritual” stuff; I almost gave up. But I fought the Resistance and finished the book.
 

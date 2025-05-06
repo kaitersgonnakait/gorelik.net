@@ -14,7 +14,7 @@ tags:
 
 ![](/assets/images/2021/05/whatsapp-image-2020-02-10-at-21.53.04.jpeg?w=77)
 
-In January 2020, I started a new experiment. [I quit what was a dream job and became a freelancer](https://gorelik.net/2020/01/13/how-i-got-a-dream-job-in-a-distributed-company-and-why-i-am-leaving-it/). Today, the experiment is over. This post serves as omphaloskepsis - a short reflection on what went well and what could have worked better.
+In January 2020, I started a new experiment. [I quit what was a dream job and became a freelancer](https://gorelik.net/2020/01/13/how-i-got-a-dream-job-in-a-distributed-company-and-why-i-am-leaving-it/). Today, the experiment is over. This post serves as omphaloskepsis - a short reflection on what went well and what could have worked better.
 
 ## What worked well?
 
@@ -26,7 +26,7 @@ Let's talk about money. Was it worth it in terms of $$$$$ (or ₪₪₪₪₪₪
 
 ## What could have been better?
 
-So, was it peachy? Not at all. For me, being a freelancer is much more stressful than being a hired employee. The stress does not come exclusively from the need to make sure one has enough projects in the pipeline (I had enough of them, most of the time). The more significant source of stress came from the lack of focus, the need for EXTREME context switching, and the lack of a team. 
+So, was it peachy? Not at all. For me, being a freelancer is much more stressful than being a hired employee. The stress does not come exclusively from the need to make sure one has enough projects in the pipeline (I had enough of them, most of the time). The more significant source of stress came from the lack of focus, the need for EXTREME context switching, and the lack of a team. 
 
 I did receive one suggestion to mitigate this source of stress; however, when I heard it, I already had several job offers and was already 90% committed to accepting the position at MyBiotics.
 
@@ -34,4 +34,4 @@ I did receive one suggestion to mitigate this source of stress; however, when I 
 
 ## To sum up
 
-I'm am very happy I did this experiment. I learned a lot; I enjoyed a lot (and suffered a lot too), I met new people, and I changed the way I think about many things. Was it a good idea? Yes, it was. Should **you** try becoming a freelancer? How the hell can I know that? It's your life; you enjoy the success and take the risk of failure.
+I'm am very happy I did this experiment. I learned a lot; I enjoyed a lot (and suffered a lot too), I met new people, and I changed the way I think about many things. Was it a good idea? Yes, it was. Should **you** try becoming a freelancer? How the hell can I know that? It's your life; you enjoy the success and take the risk of failure.

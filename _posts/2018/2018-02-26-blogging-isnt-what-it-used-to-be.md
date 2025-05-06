@@ -10,7 +10,7 @@ tags:
 coverImage: "/assets/images/2018/02/blogging_featured.png"
 ---
 
-From time to time, I assume something, evaluate that assumption, and discover that the reality is opposite to what I thought it was. That's exactly what happened when I thought about the dynamics of Google searches for "create a site," compared to the searches for "create a blog." I was **sure** that there would be much more searches for "create a site." [I was wrong](https://trends.google.com/trends/explore?date=all&q=create%20a%20blog,start%20a%20blog,create%20a%20site)
+From time to time, I assume something, evaluate that assumption, and discover that the reality is opposite to what I thought it was. That's exactly what happened when I thought about the dynamics of Google searches for "create a site," compared to the searches for "create a blog." I was **sure** that there would be much more searches for "create a site." [I was wrong](https://trends.google.com/trends/explore?date=all&q=create%20a%20blog,start%20a%20blog,create%20a%20site)
 
 ![blogging_is_not_what_it_used_to_be.png](/assets/images/2018/02/blogging_is_not_what_it_used_to_be.png)
 

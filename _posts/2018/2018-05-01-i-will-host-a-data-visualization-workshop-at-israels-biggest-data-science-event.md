@@ -16,15 +16,15 @@ tags:
 
 ## TL/DR
 
- 
+ 
 
 **What**: Data Visualization from default to outstanding. Test cases of tough data visualization
 
-**Why:**  You would never settle for default settings of a machine learning algorithm. Instead, you would tweak them to obtain optimal results. Similarly, you should never stop with the default results you receive from a data visualization framework. Sadly, most of you do.
+**Why:**  You would never settle for default settings of a machine learning algorithm. Instead, you would tweak them to obtain optimal results. Similarly, you should never stop with the default results you receive from a data visualization framework. Sadly, most of you do.
 
 **When:** May 27, 2018 (a day before the DataScience summit)/ 13:00 - 16:00
 
-**Where**:  Interdisciplinary Center (IDC) at Herzliya.
+**Where**:  Interdisciplinary Center (IDC) at Herzliya.
 
 **More info**: [here](https://events.bizzabo.com/DataScienceSummit2018/agenda/speakers/264279).
 

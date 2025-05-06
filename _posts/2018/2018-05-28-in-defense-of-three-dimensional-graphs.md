@@ -23,12 +23,12 @@ Of course, this is not a hypothetical example. We all remember how the late Stev
 
 ![Steve Jobs during a presentation, in front of a ](/assets/images/2018/05/screen-shot-2018-05-28-at-14-56-38.png?w=2048)
 
-Having said all that, **can you think of a legitimate case where adding the third dimension adds more value than distraction?** I worked hard, and I finally found it.
+Having said all that, **can you think of a legitimate case where adding the third dimension adds more value than distraction?** I worked hard, and I finally found it.
 
- 
+ 
 
 Take a look at the overlapping density plot (a.k.a "joy plot").
 
 ![Three joyplot examples](/assets/images/2018/05/joyplots.jpg)
 
-If you think of this, joyplots are nothing more than 3-d line graphs done well. Most of the time, they provide information-rich data overview that also enables digging into fine details. I really like joyplots. I included one [in my recent workshop](https://github.com/bgbg/datascience_dataviz_workshop/blob/master/01-drastically-different-time-series.ipynb). Many libraries now provide ready-to-use implementations of joyplots. This is a good thing to have. The only reservation that I have about those implementations is the fact that many of them, including my [favorite seaborn](https://seaborn.pydata.org/examples/kde_joyplot.html), add meaningless colors to the curves. But this is a topic for another rant.
+If you think of this, joyplots are nothing more than 3-d line graphs done well. Most of the time, they provide information-rich data overview that also enables digging into fine details. I really like joyplots. I included one [in my recent workshop](https://github.com/bgbg/datascience_dataviz_workshop/blob/master/01-drastically-different-time-series.ipynb). Many libraries now provide ready-to-use implementations of joyplots. This is a good thing to have. The only reservation that I have about those implementations is the fact that many of them, including my [favorite seaborn](https://seaborn.pydata.org/examples/kde_joyplot.html), add meaningless colors to the curves. But this is a topic for another rant.

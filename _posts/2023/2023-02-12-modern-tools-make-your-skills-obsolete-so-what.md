@@ -35,7 +35,7 @@ Back then, exactly when the term data scientist was coined, I used to say "data 
 
 **Time passed by.** Suddenly, I discovered one cool library, the other, and a third one ... Suddenly, my job was to connect these libraries, which allowed me to be more expressive in what I could achieve. It also allowed me to concentrate better on "business logic." Business logic is the term I use to describe all the knowledge required for the organization that pays your salary to keep doing so. If you work for a gaming company, "business logic" is the gaming psychology, competitor landscape, growth methods, and network effect. If you work for a biotech company, "business logic" is the deep understanding of disease mechanisms, biochemistry, genetics, or whatever is needed to perform the breakthrough. The fact that I don't need to deal with "low-level coding" made me obsolete and drove me to a state where I became more specialized.
 
-These days, we are facing a new era in knowledge commoditization. This commoditization makes our skills obsolete but also makes us more efficient in tasks that we were slow at and lets us develop new skills. 
+These days, we are facing a new era in knowledge commoditization. This commoditization makes our skills obsolete but also makes us more efficient in tasks that we were slow at and lets us develop new skills. 
 
 ![](/assets/images/2023/02/image-9.png?w=898)
 
@@ -43,7 +43,7 @@ In 2017, Gartner predicted that more than 40% of data science tasks would be obs
 
 ## The bottom line. Stop worrying.
 
-Let me cite [myself from 2017](https://gorelik.net/2017/10/25/gartner-more-than-40-of-data-science-tasks-will-be-automated-by-2020-so-what/):
+Let me cite [myself from 2017](https://gorelik.net/2017/10/25/gartner-more-than-40-of-data-science-tasks-will-be-automated-by-2020-so-what/):
 
 > Data scientists won’t disappear as an occupation. They will be more specialized.
 > 

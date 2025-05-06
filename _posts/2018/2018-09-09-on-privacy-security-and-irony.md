@@ -12,7 +12,7 @@ tags:
 
 About a week ago, I met [Justin Mayer](https://justinmayer.com) and had a really interesting chat with him about internet privacy. Today, his 30-minutes talk on that subject appeared in my youtube suggestion list
 
- 
+ 
 
 https://www.youtube.com/watch?v=2rrP\_aW-jNA
 

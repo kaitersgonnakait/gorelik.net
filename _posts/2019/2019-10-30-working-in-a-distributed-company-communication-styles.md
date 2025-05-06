@@ -39,4 +39,4 @@ The author of the first (short) message grew up and lives in Germany. The author
 
 To sum up. People from different cultural backgrounds have different communication styles. In theory, we all know that these differences exist. In practice, we usually are unaware of them.
 
-Featured photo by [Stock Photography](https://unsplash.com/@aplaceforcreation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/screaming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Featured photo by [Stock Photography](https://unsplash.com/@aplaceforcreation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/screaming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

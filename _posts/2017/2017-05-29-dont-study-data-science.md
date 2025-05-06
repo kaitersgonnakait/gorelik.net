@@ -66,7 +66,7 @@ When I started my Ph.D. (in 2001), bioinformatics was HUGE. Many companies had b
 
 The same might happen to data science. Two years ago, Barb Darrow from the Fortune magazine [wrote quoting industry experts](http://fortune.com/2015/05/21/data-science-white-hot/):
 
-Existing tools like Tableau have already sweated much of the complexity out of the once-very-hard task of data visualization, said Raghuram. And there are more higher-level tools on the way ... that will improve workflow and automate how data interpretations are presented. "That's the sort of automation that eliminates the need for data scientists to a large degree," ... And as the technology solves more of these problems, there will also be a lot more human job candidates from the 100 graduate programs worldwide dedicated to churning out data scientists  
+Existing tools like Tableau have already sweated much of the complexity out of the once-very-hard task of data visualization, said Raghuram. And there are more higher-level tools on the way ... that will improve workflow and automate how data interpretations are presented. "That's the sort of automation that eliminates the need for data scientists to a large degree," ... And as the technology solves more of these problems, there will also be a lot more human job candidates from the 100 graduate programs worldwide dedicated to churning out data scientists  
 Supply, meet demand. And bye-bye perks.
 
 My point is, you have to be versatile and expert. The best way to become one isn't to take a crash course but to solve hard problems, preferably, under supervision. Usually, you do so by obtaining an advanced degree. By completing an advanced degree, you learn, you learn to learn, and you prove to yourself and your potential employees that you're capable of bridging the knowledge gaps that will always be there. That is why is why I advocate obtaining a degree in an existing field, keeping the data science as a tool, not a goal.
@@ -78,5 +78,5 @@ Giving advice is easy. Living the life is not. The path I'm advocating for worke
 I may be completely wrong about data science not being a mature scientific field. For example, deep learning may be the defining concept of data science as a scientific field on its own.
 
 ```
-Credits: The crowd image is by Flicker user Amy West. Hilary Mason's photo is from her site https://hilarymason.com/about/
+Credits: The crowd image is by Flicker user Amy West. Hilary Mason's photo is from her site https://hilarymason.com/about/
 ```

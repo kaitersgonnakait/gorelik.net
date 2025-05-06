@@ -32,7 +32,7 @@ Following is a time map of a particularly busy site with more than 7,700 posts. 
 
 ![timemap_fig00](/assets/images/2015/12/timemap_fig00.png)
 
-Time map of another busy site, with its 6511 posting events, shows a slightly different publishing pattern.
+Time map of another busy site, with its 6511 posting events, shows a slightly different publishing pattern.
 
 ![timemaps_fig04](/assets/images/2015/12/timemaps_fig04.png)
 
@@ -44,15 +44,15 @@ What about smaller blogs? This Norwegian blogger posted less than 150 posts with
 
 ![timemaps_fig06](/assets/images/2015/12/timemaps_fig06.png)
 
-I have analyzed time maps of different administrative tasks performed by  several random WordPress.com users. This user, for example, is a moderately active blogger with a single blog. Their time map is characteristic of sporadic events with intervals of several seconds to one day. We may see that this user is very disciplined and does not leave the blog for more than a day.
+I have analyzed time maps of different administrative tasks performed by  several random WordPress.com users. This user, for example, is a moderately active blogger with a single blog. Their time map is characteristic of sporadic events with intervals of several seconds to one day. We may see that this user is very disciplined and does not leave the blog for more than a day.
 
 ![timemaps_fig07](/assets/images/2015/12/timemaps_fig07.png)
 
-On the other hand, another user, who has two blogs presents a completely different time map with thousands of events within the range of micro- and milliseconds. Notice that the two types of events (the super-fast ones and the “normally paced” ones) are well separated and that the super-fast events occur at very specific hours. Does this mean that that user’s computer is affected by a virus? Does that user use an aggressive script to monitor their site? This is a topic for another post.
+On the other hand, another user, who has two blogs presents a completely different time map with thousands of events within the range of micro- and milliseconds. Notice that the two types of events (the super-fast ones and the “normally paced” ones) are well separated and that the super-fast events occur at very specific hours. Does this mean that that user’s computer is affected by a virus? Does that user use an aggressive script to monitor their site? This is a topic for another post.
 
 ![timemaps_fig08](/assets/images/2015/12/timemaps_fig08.png)
 
- 
+ 
 
 ## Bringing the maps to the common scale
 

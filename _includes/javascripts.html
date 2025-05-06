@@ -1,0 +1,25 @@
+{% if site.ga_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.ga_analytics }}');
+  </script>
+{% endif %}
+
+<script src="{{ url }}/assets/javascripts/vendor.js"></script>
+
+{% unless site.local_fonts %}
+  <script src="{{ url }}/assets/javascripts/webfonts.js"></script>
+{% endunless %}
+
+{% if site.scrollappear_enabled %}
+<script src="{{ url }}/{{ url }}assets/javascripts/scrollappear.js"></script>
+{% endif %}
+
+<script src="{{ url }}/assets/javascripts/application.js"></script>
+
+{% if site.theme_toggle == true %}
+<script src="{{ url }}/assets/javascripts/themetoggle.js"></script>
+{% endif %}

@@ -42,6 +42,6 @@ Fact check No. 2: Sabich (\[saˈbiχ\]), a pita bread sandwich filled with fried
 
 </figure>
 
-Fact check No. 3: The 'shit sandwich' is a feedback strategy conceived by corporate America that basically involves sandwiching negative feedback between two layers of positive feedback. In theory, this approach aims to deliver bad news in a way that doesn't hurt someone's feelings. In practice, however, I've yet to meet someone who reacted positively to this method. Instead, I've heard numerous stories of people being called for a pre-dismissal hearing (a "performance review," as they call it) without realizing it because the "bad news" was sugar-coated with fake positivity. 
+Fact check No. 3: The 'shit sandwich' is a feedback strategy conceived by corporate America that basically involves sandwiching negative feedback between two layers of positive feedback. In theory, this approach aims to deliver bad news in a way that doesn't hurt someone's feelings. In practice, however, I've yet to meet someone who reacted positively to this method. Instead, I've heard numerous stories of people being called for a pre-dismissal hearing (a "performance review," as they call it) without realizing it because the "bad news" was sugar-coated with fake positivity. 
 
 I suspect the real motive behind the 'shit sandwich' is to make the delivery of feedback more comfortable for the giver rather than the receiver. Giving harsh feedback is challenging, but the person on the receiving end deserves the dignity of hearing your honest opinion. Make the effort - they're worth it.

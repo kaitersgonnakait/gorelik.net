@@ -16,7 +16,7 @@ tags:
 
 I invited Dr. Charles Earl for this episode of my podcast "Job Interview" to talk about racial discrimination at the workplace and fairness in machine learning.
 
-Dr. Charles Earl is a data scientist in Automattic, my previous place of work. Charles holds a Ph.D. in computer science, M.A. in education, M.Sc in Electrical engineering, and B.Sc in mathematics. His career covered a position of assistant professor and a wide range of hands-on, managerial, and consulting roles in the field that we like to call today "data science." 
+Dr. Charles Earl is a data scientist in Automattic, my previous place of work. Charles holds a Ph.D. in computer science, M.A. in education, M.Sc in Electrical engineering, and B.Sc in mathematics. His career covered a position of assistant professor and a wide range of hands-on, managerial, and consulting roles in the field that we like to call today "data science." 
 
 But there is another aspect in Dr. Earl. His skin is brown. He was born to an African-American family in Atlanta, GA, in the 1960s when racial segregation was explicitly legal. I am sure that this fact affected Charles' entire life, personal and professional.
 

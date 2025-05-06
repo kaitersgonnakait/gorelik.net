@@ -39,4 +39,4 @@ fig = plt.figure(figsize=(10, 5)) ax = fig.gca() ax.set\_yticks(\[\]) # Make 1st
 
 Next time when you create a "something" vs time graph, ask yourself whether the last available point has a special meaning to the viewer. If it does, consider moving the Y axis to the left part of your graph and see whether it becomes more readable.
 
-This post was triggered by a nice write-up by  [Plotting a Course: Line Charts](https://thenumberist.wordpress.com/2017/12/06/plotting-a-course-line-charts/) by a new blogger David (he didn't mention his last name) from https://thenumberist.wordpress.com/
+This post was triggered by a nice write-up by  [Plotting a Course: Line Charts](https://thenumberist.wordpress.com/2017/12/06/plotting-a-course-line-charts/) by a new blogger David (he didn't mention his last name) from https://thenumberist.wordpress.com/

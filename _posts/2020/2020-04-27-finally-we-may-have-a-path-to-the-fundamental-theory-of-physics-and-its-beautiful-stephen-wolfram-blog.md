@@ -16,6 +16,6 @@ Also, it turns out that Stephen Wolfram has a [Twitch.tv channel](https://www.tw
 
 ![](/assets/images/2020/04/swblog-2036-explainer.png?quality=80&ssl=1&strip=info&w=1600)
 
-> Website: Wolfram Physics Project Technical Intro: A Class of Models with the Potential to Represent Fundamental Physics How We Got Here: The Backstory of the Wolfram Physics Project… 26,455 more words
+> Website: Wolfram Physics Project Technical Intro: A Class of Models with the Potential to Represent Fundamental Physics How We Got Here: The Backstory of the Wolfram Physics Project… 26,455 more words
 > 
 > [Finally We May Have a Path to the Fundamental Theory of Physics… and It’s Beautiful — Stephen Wolfram Blog](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)

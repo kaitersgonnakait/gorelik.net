@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Useful redundancy -- when using colors is not completely useless"
+title: "Useful redundancy &mdash; when using colors is not completely useless"
 date: 2018-11-26
 categories: 
   - "blog"
@@ -21,7 +21,7 @@ Pew Research Center is a "is a nonpartisan American fact tank based in Washingto
 
 But this post does not deal with the Isreali society but with graphs and colors.
 
-Look at the first chart in that report. You may see a tidy pie chart with several colored segments. 
+Look at the first chart in that report. You may see a tidy pie chart with several colored segments. 
 
 ![Pie chart: Religious composition of Israeli society. The chart uses several colored segments](/assets/images/2018/11/screen-shot-2018-11-26-at-10-49-51.png)
 
@@ -38,4 +38,4 @@ In most of the cases, such a transformation would make a perfect sense. In most 
 - ![](/assets/images/2018/11/screen-shot-2018-11-26-at-11-06-53.png)
     
 
-All these graphs and tables will be readable without the use of colors. Despite the fact that the colors here are redundant, this is a **useful redundancy**. By using the colors, the authors provided additional **information layers** that make the navigation within the document easier. I learned about the concept of useful redundancy from "[Trees, Maps, and Theorems](http://www.treesmapsandtheorems.com/)" by Jean-luc Dumout. If you can only read one book about data communication, it should be this book.
+All these graphs and tables will be readable without the use of colors. Despite the fact that the colors here are redundant, this is a **useful redundancy**. By using the colors, the authors provided additional **information layers** that make the navigation within the document easier. I learned about the concept of useful redundancy from "[Trees, Maps, and Theorems](http://www.treesmapsandtheorems.com/)" by Jean-luc Dumout. If you can only read one book about data communication, it should be this book.

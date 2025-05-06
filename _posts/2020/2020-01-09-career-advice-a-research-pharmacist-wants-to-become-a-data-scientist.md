@@ -19,7 +19,7 @@ Here's the original email with minor edits, followed by my response.
 
 ## The question
 
-Hi Boris, 
+Hi Boris, 
 
   
 My name is XXXXX, and I came across your information and your advice on data science as I was researching career opportunities.  
@@ -31,17 +31,17 @@ I then turned towards obtaining a Ph.D. in translational research, bridging the 
   
 Since I wanted to be involved in both research and pharmacy areas in my career, I ended up where I am now, a research pharmacist.  
   
-My main job description is not any different from typical hospital pharmacists. I do have a chance of handling investigational medications, learning about new medications and clinical protocols, overseeing side effects that may be a crucial barrier in marketing the trial medications, and sometimes participating in development of drug preparation and handling for investigator-initiated trials. This does keep my job interesting and brings variety in what I do. However, I do still feel I am merely following the guidelines to prepare medications and not critically thinking to make interventions or manipulate data to see the outcomes. At this point, I am preparing to find career opportunities in the pharmaceutical industry where I will be more actively involved in clinical trial development, exchanging information about targeting the diseases and analyzing data. I believe gaining knowledge and experiences in critical characteristics for the data science field would broaden my career opportunities and interest. Still, unfortunately, I only have pharmacy background and have little to no experience in computer science, bioinformatics, or machine learning.
+My main job description is not any different from typical hospital pharmacists. I do have a chance of handling investigational medications, learning about new medications and clinical protocols, overseeing side effects that may be a crucial barrier in marketing the trial medications, and sometimes participating in development of drug preparation and handling for investigator-initiated trials. This does keep my job interesting and brings variety in what I do. However, I do still feel I am merely following the guidelines to prepare medications and not critically thinking to make interventions or manipulate data to see the outcomes. At this point, I am preparing to find career opportunities in the pharmaceutical industry where I will be more actively involved in clinical trial development, exchanging information about targeting the diseases and analyzing data. I believe gaining knowledge and experiences in critical characteristics for the data science field would broaden my career opportunities and interest. Still, unfortunately, I only have pharmacy background and have little to no experience in computer science, bioinformatics, or machine learning.
 
 ## The answer
 
 First of all, thank you for asking me. I'm genuinely flattered. I assume that you found me through my blog posts, and if not, I suggest that you read at least the following posts
 
-- "[Don't study data science as a career move](https://gorelik.net/2017/05/29/dont-study-data-science/)" --  the most read post on my blog
+- "[Don't study data science as a career move](https://gorelik.net/2017/05/29/dont-study-data-science/)" --  the most read post on my blog
 - "[What you need to know to start a career as a data scientist](https://gorelik.net/2017/10/11/what-you-need-to-know-to-start-a-career-as-a-data-scientist/)"
 - "[Staying employable as a data scientist](https://gorelik.net/2019/12/23/staying-employable-and-relevant-as-a-data-scientist/)"
 
-All my thoughts on the career path of a data scientist appear in this page [https://gorelik.net/category/career-advice/](https://gorelik.net/category/career-advice/)
+All my thoughts on the career path of a data scientist appear in this page [https://gorelik.net/category/career-advice/](https://gorelik.net/category/career-advice/)
 
 Now, specifically to your questions.
 
@@ -51,7 +51,7 @@ My path towards data science was through gradual evolution. Every new phase in m
 
 Whatever you do, you will not be able to work as a data scientist if you can't write computer programs. Modifying tutorial scripts is not enough; knowing how to feed data into models is not enough.
 
-Also, my most significant knowledge gap is in maths. If you do go back to academia, I strongly suggest taking advantage of the opportunity and taking several math classes: at least calculus and linear algebra and, of course, statistics. 
+Also, my most significant knowledge gap is in maths. If you do go back to academia, I strongly suggest taking advantage of the opportunity and taking several math classes: at least calculus and linear algebra and, of course, statistics. 
 
 ## Do you have a question for me?
 

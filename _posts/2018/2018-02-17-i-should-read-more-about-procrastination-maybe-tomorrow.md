@@ -20,6 +20,6 @@ Strong and consistent predictors of procrastination were task aversiveness, task
 
 Hmmm, isn't this the very definition of procrastination? Isn't this sentence similar to "A strong predictor of obesity is a high ratio between person's weight to their height?". **Now**, I'm really intrigued. I am sure that reading this paper will shed some light, not only on the procrastination itself but also on the self-assuring sentence. I definitely need to read this paper. Maybe tomorrow.
 
- 
+ 
 
-PS. After writing this post, I discovered that the paper author, Piers Steel, has a blog dedicated to "procrastination and science" [https://procrastinus.com/](https://procrastinus.com/). I will read that blog too. But not today
+PS. After writing this post, I discovered that the paper author, Piers Steel, has a blog dedicated to "procrastination and science" [https://procrastinus.com/](https://procrastinus.com/). I will read that blog too. But not today

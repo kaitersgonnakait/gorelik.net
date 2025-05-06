@@ -15,7 +15,7 @@ I want to share an experience I had with a CEO-entrepreneur that might offer som
 
 Before we continue, it’s a good time to remind you to share this newsletter with your colleagues.
 
-This CEO approached me with concerns about the security of her custom-tailored questionnaire website, which couldn't be created on standard platforms like Typeform or Crowdsignal. A small development company had built her site using WordPress, but an "expert" had warned her about potential security risks. Not knowing what to do, she spent a month searching for help before turning to me for advice on securing her site. 
+This CEO approached me with concerns about the security of her custom-tailored questionnaire website, which couldn't be created on standard platforms like Typeform or Crowdsignal. A small development company had built her site using WordPress, but an "expert" had warned her about potential security risks. Not knowing what to do, she spent a month searching for help before turning to me for advice on securing her site. 
 
 Here's what I told her
 
@@ -27,11 +27,11 @@ Understanding your website's potential vulnerabilities, the consequences of thes
 
 ## Premature optimization as a form of procrastination
 
-There is a saying in the software engineering industry, "premature optimization is the root of 
+There is a saying in the software engineering industry, "premature optimization is the root of 
 
-There's a saying in the software industry, "Premature optimization is the root of all evil." Of course, you should strive to deliver the best product you can. In an ideal world, you would build a perfect product, produce bug-free code, and write flawless documents. Realistically, however, you need to balance costs and benefits, allocate limited resources, and manage uncertainty. Thus, "good enough" is not always a sign of laziness but can be the most practical approach. 
+There's a saying in the software industry, "Premature optimization is the root of all evil." Of course, you should strive to deliver the best product you can. In an ideal world, you would build a perfect product, produce bug-free code, and write flawless documents. Realistically, however, you need to balance costs and benefits, allocate limited resources, and manage uncertainty. Thus, "good enough" is not always a sign of laziness but can be the most practical approach. 
 
-The urge to optimize often stems from a lack of understanding or could be a form of perfectionism that masks procrastination. So, how can you ensure you're on the right track? Seek advice from a trusted friend, colleague, or consultant. Ask open, non-leading questions, and be genuinely willing to consider perspectives other than your own. 
+The urge to optimize often stems from a lack of understanding or could be a form of perfectionism that masks procrastination. So, how can you ensure you're on the right track? Seek advice from a trusted friend, colleague, or consultant. Ask open, non-leading questions, and be genuinely willing to consider perspectives other than your own. 
 
 (Yes, you can reach out to me at: boris@gorelik.net)
 
@@ -39,7 +39,7 @@ The urge to optimize often stems from a lack of understanding or could be a form
 
 [![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dae871-720d-486b-9659-363435174941_753x304.jpeg)
 
-Back to the CEO-entrepreneur.  During our conversation, I learned about her business and potential customers and concluded that her venture didn't require the same security measures as a bank or a utility company. I researched the development company that built her site and found them reputable. So, I suggested launching the service, starting to work, acquiring new customers, making money, and allocating a portion of the income for future security investments.
+Back to the CEO-entrepreneur.  During our conversation, I learned about her business and potential customers and concluded that her venture didn't require the same security measures as a bank or a utility company. I researched the development company that built her site and found them reputable. So, I suggested launching the service, starting to work, acquiring new customers, making money, and allocating a portion of the income for future security investments.
 
 Unfortunately, she disagreed with me. It has been five months since our conversation, and she's still searching for the right security expert to rewrite her entire site from scratch. Two days ago, I asked her about her site. “It’s almost done,” she told me.
 

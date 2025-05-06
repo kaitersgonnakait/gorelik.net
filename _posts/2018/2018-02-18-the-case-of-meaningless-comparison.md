@@ -23,12 +23,12 @@ Graphs like this one provide an easy-to-digest overview of the data but are mean
 
 Look how impressive my prediction is!
 
-I'm not saying that Exposé constructed a nonsense model. I have no idea what their model is. I do say, however, that their communication is meaningless. In many time series, such as consumption dynamics, stock price, etc, each value is a function of the previous ones. Thus, the "null hypothesis" of each modeling attempt should be that of a random walk, which means that we should not compare the **actual** values but rather the **changes**. And if we do that, we will see the real nature of the model. Below is such a graph for my pseudo-model (zoomed to the last 20 points)
+I'm not saying that Exposé constructed a nonsense model. I have no idea what their model is. I do say, however, that their communication is meaningless. In many time series, such as consumption dynamics, stock price, etc, each value is a function of the previous ones. Thus, the "null hypothesis" of each modeling attempt should be that of a random walk, which means that we should not compare the **actual** values but rather the **changes**. And if we do that, we will see the real nature of the model. Below is such a graph for my pseudo-model (zoomed to the last 20 points)
 
 ![diff_series](/assets/images/2018/02/diff_series.png)
 
- 
+ 
 
 Suddenly, my bluff is evident.
 
-To sum up, a direct comparison of observed and predicted time series can only be used as a starting point for a more detailed analysis. Without such an analysis, this comparison is nothing but a meaningless illustration.
+To sum up, a direct comparison of observed and predicted time series can only be used as a starting point for a more detailed analysis. Without such an analysis, this comparison is nothing but a meaningless illustration.

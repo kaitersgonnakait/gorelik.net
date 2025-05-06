@@ -15,6 +15,6 @@ tags:
 
 It seems that career in data science is the hottest topic many data scientists are asked about. To help an aspiring data scientist, I'm reposting here a FAQ by my teammate Yanir Seroussi
 
-> Aspiring data scientists and other visitors to this site often repeat the same questions. This post is the definitive collection of my answers to such questions (which may evolve over time). How do I become a data scientist? It depends on your situation. Before we get into it, have you thought about why you want \[…\]
+> Aspiring data scientists and other visitors to this site often repeat the same questions. This post is the definitive collection of my answers to such questions (which may evolve over time). How do I become a data scientist? It depends on your situation. Before we get into it, have you thought about why you want \[…\]
 
 via [Advice for aspiring data scientists and other FAQs — Yanir Seroussi](http://yanirseroussi.com/2017/10/15/advice-for-aspiring-data-scientists-and-other-faqs/)

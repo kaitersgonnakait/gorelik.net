@@ -24,8 +24,8 @@ Overall, this period consists of between 14 to 17 working days in a single month
 
 Now, having some vacation is nice, but this month is absolutely crazy. There is not a single full working week during this month. It is very similar to the constantly interrupt work day, but at a different scale.
 
-So, next time you wonder why your Israeli colleague, customer or partner barely works during September-October, recall this post.
+So, next time you wonder why your Israeli colleague, customer or partner barely works during September-October, recall this post.
 
-(\*) New Year starts in the seventh's month? I know this is confusing. That's because we number Nissan -- the month of the Exodus from Egypt as the first month.
+(\*) New Year starts in the seventh's month? I know this is confusing. That's because we number Nissan &mdash; the month of the Exodus from Egypt as the first month.
 
 (\*\*)If you are an observing Jew, you should add to this list Fast of Gedalia, but we will omit it from this discussion

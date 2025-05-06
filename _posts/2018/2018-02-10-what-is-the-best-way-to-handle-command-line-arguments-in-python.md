@@ -9,7 +9,7 @@ tags:
   - "python"
 ---
 
-The best way to handle command line arguments with Python is `[defopt](http://evanunderscore/defopt: Effortless argument parser)`. It works like magic. You write a function, add a proper docstring using any standard format (I use \[[numpy doc](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)\]), and see the magic
+The best way to handle command line arguments with Python is `[defopt](http://evanunderscore/defopt: Effortless argument parser)`. It works like magic. You write a function, add a proper docstring using any standard format (I use \[[numpy doc](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)\]), and see the magic
 
 \[code language="python"\]
 
@@ -21,7 +21,7 @@ def main(greeting, \*, count=1): """Display a friendly greeting.
 
 if \_\_name\_\_ == '\_\_main\_\_': defopt.run(main) \[/code\]
 
- 
+ 
 
 You have:
 

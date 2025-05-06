@@ -18,9 +18,9 @@ Look what happened. Data science has indeed become commoditized in many fields. 
 
 ![](/assets/images/2023/02/image-3.png?w=1024)
 
-Why did this happen? Well, I was right. Data science **has** become a commodity. Each self-respecting platform offers AI tools (I hate the term AI, by the way) such as keyword extraction, insights, predictions, anomaly detection, recommendations, and many more. Tableau, PowerBI, and even Google Sheets or Excel offer tools that were once only available through custom data and code fiddling. The Data-Science-As-A-Service niche is full of products such as https://www.pecan.ai and https://www.anodot.com. And we haven't even started talking about the new word of the day: the GPT.
+Why did this happen? Well, I was right. Data science **has** become a commodity. Each self-respecting platform offers AI tools (I hate the term AI, by the way) such as keyword extraction, insights, predictions, anomaly detection, recommendations, and many more. Tableau, PowerBI, and even Google Sheets or Excel offer tools that were once only available through custom data and code fiddling. The Data-Science-As-A-Service niche is full of products such as https://www.pecan.ai and https://www.anodot.com. And we haven't even started talking about the new word of the day: the GPT.
 
-Being an experienced data scientist, people often ask for my advice and help. In the past, when this happened, I used to discuss possible custom-tailored solutions. Now, I find myself suggesting the person looking at product X or Y will solve their problems in a fraction of the time and cost. 
+Being an experienced data scientist, people often ask for my advice and help. In the past, when this happened, I used to discuss possible custom-tailored solutions. Now, I find myself suggesting the person looking at product X or Y will solve their problems in a fraction of the time and cost. 
 
 ## So, what do we have? What does all that mean?
 

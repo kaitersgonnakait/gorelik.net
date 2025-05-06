@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Before and after -- stacked bar charts"
+title: "Before and after &mdash; stacked bar charts"
 date: 2020-11-25
 categories: 
   - "blog"
@@ -48,7 +48,7 @@ But what if the overall error rate is of greater importance than the individual 
 
 ![](/assets/images/2020/11/image-13.png?w=1024)
 
-## Summary -- the Why and the What define the How
+## Summary &mdash; the Why and the What define the How
 
 When you have a technical question about improving a graph, make sure you ask yourself "why." Why is, does technical problems matter? Why will it improve the chart? To answer this question, you will have to ask another question: "what?". "What is it that I want to say." The easiest way to force yourself to ask these questions is to force yourself to add titles to every graph you create (see my [how to suck less in data visualization](https://gorelik.net/2020/07/28/how-to-suck-less-in-data-visualization-and-professional-communication/) post for more details).
 

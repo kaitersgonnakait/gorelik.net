@@ -11,7 +11,7 @@ tags:
   - "dataviz"
 ---
 
-I have to admit, I was skeptical at the beginning of the COVID-19 crisis. I started becoming skeptical now when it seems that the crisis didn't hit my country too hard. But then I saw the graphs in this [Financial Times article](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c), and the skepticism disapeared. The graphs are accompanied by hundreds of words, but there is no need for reading the text to understand almost everything.
+I have to admit, I was skeptical at the beginning of the COVID-19 crisis. I started becoming skeptical now when it seems that the crisis didn't hit my country too hard. But then I saw the graphs in this [Financial Times article](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c), and the skepticism disapeared. The graphs are accompanied by hundreds of words, but there is no need for reading the text to understand almost everything.
 
 ![](/assets/images/2020/04/ft.png?w=1024)
 

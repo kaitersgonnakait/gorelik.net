@@ -11,11 +11,11 @@ tags:
 coverImage: "/assets/images/2017/08/4832223326_ea6fcc423a_z.jpg"
 ---
 
-Zalando is an e-commerce company that sells shoes, clothing and other fashion items. Zalando isn't a small company. According to Wikipedia, it's 2015 revenue was almost [3 billion Euro](https://en.wikipedia.org/wiki/Zalando). As you might imagine, you don't run this kind of business without proper data analysis. Recently, we had [Thorsten Dietzsch](https://de.linkedin.com/in/thorsten-dietzsch-aaaa6b63), a product manager for personalization at the fashion e-commerce at Zalando, joining our team meeting to tell us about how data science works at Zalando. It was an interesting conversation, which is now publically available online.
+Zalando is an e-commerce company that sells shoes, clothing and other fashion items. Zalando isn't a small company. According to Wikipedia, it's 2015 revenue was almost [3 billion Euro](https://en.wikipedia.org/wiki/Zalando). As you might imagine, you don't run this kind of business without proper data analysis. Recently, we had [Thorsten Dietzsch](https://de.linkedin.com/in/thorsten-dietzsch-aaaa6b63), a product manager for personalization at the fashion e-commerce at Zalando, joining our team meeting to tell us about how data science works at Zalando. It was an interesting conversation, which is now publically available online.
 
 \[wpvideo 9BSbPlBe\]
 
-> In the first of our Data Speaker Series posts, Thorsten Dietzsch shares how data products are managed at Zalando, a fashion ecommerce company.
+> In the first of our Data Speaker Series posts, Thorsten Dietzsch shares how data products are managed at Zalando, a fashion ecommerce company.
 
 via [Data Speaker Series: Thorsten Dietzsch on Building Data Products at Zalando — Data for Breakfast](http://data.blog/2017/08/15/data-speaker-series-thorsten-dietzsch-on-building-data-products-at-zalando/)
 

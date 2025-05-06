@@ -25,7 +25,7 @@ The post is so good; I decided to post it again.
 
 "[Everything wrong with statistics (and how to fix it)](https://www.youtube.com/watch?v=be2wuOaglFY)" is a one-hour video lecture by Dr. Kristin Lennox who talks about the same problems. I saw this video, and two more talks by Dr. Lennox on a flight I highly recommend all her videos on YouTube.
 
-"[Do You Hate Statistics as Much as Everyone Else?](https://flowingdata.com/2008/12/15/do-you-hate-statistics-as-much-as-everyone-else/)" -- A Natan Yau's (from flowingdata.com) attempt to get thoughtful comments from his knowledgeable readers.
+"[Do You Hate Statistics as Much as Everyone Else?](https://flowingdata.com/2008/12/15/do-you-hate-statistics-as-much-as-everyone-else/)" &mdash; A Natan Yau's (from flowingdata.com) attempt to get thoughtful comments from his knowledgeable readers.
 
 This list will not be complete without the classics:
 

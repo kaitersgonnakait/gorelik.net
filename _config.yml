@@ -5,25 +5,43 @@ description: >- # this means to ignore newlines until "baseurl:"
   | AI, Machine Learning, Data Visualization
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 permalink: /:year/:month/:day/:title
 
-minima:
-  header_pages:
-    - about.md
-    - portfolio.md
+blog_theme: light
+
+paginate: 25
+paginate_path: "/blog/page:num/"
+
+social:
+  github: bgbg # Add your GitHub handle
+  linkedin: boris-gorelik-phd # Add your LinkedIn handle
+  twitter-x: boris_gorelik # Add your Twitter handle
+  youtube: gorelikboris # Add your Youtube handle
 
 nav_pages:
-  - about.md
+  - name: About
+    url: /
+  - name: Directions Matters Newsletter
+    url: "https://directionmatters.substack.com/"
+  - name: Blog
+    url: /blog
+  - name: אני בעברית
+    url: https://he.gorelik.net/
 
-header_pages:
-  - about.md
-  - blog.md
+assets:
+  plugins:
+    css: { autoprefixer: {}}
+    img: { optim: {}}
+  source_maps: false
+  sources:
+    - _assets/icons
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/yarn
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 

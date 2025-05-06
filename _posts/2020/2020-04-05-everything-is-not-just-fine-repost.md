@@ -19,6 +19,6 @@ You should read it too
 
 ![](/assets/images/2020/04/IMG_1384-1-e1585950373956-768x1024.jpeg?quality=80&ssl=1&strip=info&w=1600)
 
-> I’ve read a lot of cheery tweets that said something like, “Buffy, Biff and I are isolated at home with our terrier, Boo. Here’s a picture. Isn’t he cute? We played card games, then I baked this three-course meal I saw on Pinterest. Biff is taking this time to finally become proficient in Mandarin with…
+> I’ve read a lot of cheery tweets that said something like, “Buffy, Biff and I are isolated at home with our terrier, Boo. Here’s a picture. Isn’t he cute? We played card games, then I baked this three-course meal I saw on Pinterest. Biff is taking this time to finally become proficient in Mandarin with…
 > 
 > [Everything is NOT just fine — AnnMaria's Blog](https://www.thejuliagroup.com/blog/everything-is-not-just-fine/)

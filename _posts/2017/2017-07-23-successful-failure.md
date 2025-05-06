@@ -21,7 +21,7 @@ It's not that there are no good courses. There are. However, most of them are ti
 
 ### What went wrong?
 
-So, what went wrong? First of all, you should remember that I work full time at Automattic, which means that every side project is a ... side project, that I have to do during my free time. I realized that since the very beginning. However, since I already teach data visualization in different institutions in Israel, I already have a well-formed syllabus with accompanying slide decks full of examples. I assumed that it will take me not more than one hour to prepare every online lecture.
+So, what went wrong? First of all, you should remember that I work full time at Automattic, which means that every side project is a ... side project, that I have to do during my free time. I realized that since the very beginning. However, since I already teach data visualization in different institutions in Israel, I already have a well-formed syllabus with accompanying slide decks full of examples. I assumed that it will take me not more than one hour to prepare every online lecture.
 
 \[caption id="attachment\_630" align="alignright" width="225"\]![Green screen and a camera in a typical green room setup](/assets/images/2017/07/green_room_in_my_home_office.jpg?w=450) Green room. All my friends were very impressed to see it\[/caption\]
 
@@ -33,10 +33,10 @@ Preparing slide decks for the lectures wasn't an easy task either. Despite the f
 
 ### What now?
 
-Since I already have pretty good texts for the first two lectures, I might be able to convert them to posts in this blog. I also have material for some before-and-after videos that I planned to have as a part of this course. I will make convert them to posts, too, similar to [this post](https://data.blog/2016/10/25/evolution-of-a-plot-better-data-visualization-one-step-at-a-time/) on the data.blog.
+Since I already have pretty good texts for the first two lectures, I might be able to convert them to posts in this blog. I also have material for some before-and-after videos that I planned to have as a part of this course. I will make convert them to posts, too, similar to [this post](https://data.blog/2016/10/25/evolution-of-a-plot-better-data-visualization-one-step-at-a-time/) on the data.blog.
 
 ### Was it worth it?
 
 It certainly was! During the preparations, I learned a lot. I learned new things about data visualization. I took a glimpse into the world of video production. I had a chance to restructure several of my presentations.
 
-Featured image for this post by [Nicolas Nova](https://www.flickr.com/photos/nnova/) under the CC-by license.
+Featured image for this post by [Nicolas Nova](https://www.flickr.com/photos/nnova/) under the CC-by license.

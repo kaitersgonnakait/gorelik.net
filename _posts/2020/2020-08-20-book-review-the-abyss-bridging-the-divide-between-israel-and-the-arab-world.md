@@ -16,7 +16,7 @@ coverImage: "/assets/images/2020/08/featured_image.014.jpeg"
 
 TL;DR If you are an Israeli and don't feel like learning the behind the scenes stories, skip it. Otherwise, I do recommend reading this book. I enjoyed it a lot 4.5/5
 
-[The Abyss: Bridging the Divide between Israel and the Arab World](https://www.amazon.com/Abyss-Bridging-Divide-between-Israel/dp/1442245476) went to print slightly after the outbreak of the "Arab Spring." The author, [Eli Avidar](https://en.wikipedia.org/wiki/Eli_Avidar), is a former Israeli intelligence officer and diplomat. Among other things, Eli Avidar served as the head of the Israeli diplomatic mission to Qatar in 1999. Today, Eli Avidar is a Knesset member for the right-wing Yisrael Beiteinu party. Even though so many things have changed since the book was published, I didn't find any claim that Eli Avidar made, and that turned out to be wrong, nine years after the publication. 
+[The Abyss: Bridging the Divide between Israel and the Arab World](https://www.amazon.com/Abyss-Bridging-Divide-between-Israel/dp/1442245476) went to print slightly after the outbreak of the "Arab Spring." The author, [Eli Avidar](https://en.wikipedia.org/wiki/Eli_Avidar), is a former Israeli intelligence officer and diplomat. Among other things, Eli Avidar served as the head of the Israeli diplomatic mission to Qatar in 1999. Today, Eli Avidar is a Knesset member for the right-wing Yisrael Beiteinu party. Even though so many things have changed since the book was published, I didn't find any claim that Eli Avidar made, and that turned out to be wrong, nine years after the publication. 
 
 [![](/assets/images/2020/08/image-6.png?w=645)](https://www.amazon.com/Abyss-Bridging-Divide-between-Israel/dp/1442245476)
 

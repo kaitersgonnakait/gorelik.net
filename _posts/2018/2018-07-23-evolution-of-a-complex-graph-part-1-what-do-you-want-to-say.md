@@ -18,7 +18,7 @@ From time to time, people ask me for help with non-trivial data visualization ta
 
 Each row is a different use case. Each use case was tested on three separate occasions – columns 1,2,3. We hope to show that the lines in each row behave similarly, but that there are differences between the different rows.
 
-Before looking at the graphs, note the last sentence in the above comment. Knowing what you want to show is an essential and not trivial part of a data visualization task. Specifying what is it **precisely** that you want to say is the first required task in any communication attempt, technical or not.
+Before looking at the graphs, note the last sentence in the above comment. Knowing what you want to show is an essential and not trivial part of a data visualization task. Specifying what is it **precisely** that you want to say is the first required task in any communication attempt, technical or not.
 
 For the obvious reasons, I cannot share the original graphs that that person gave me. I managed to re-create the spirit of those graphs using a combination of randomly generated arrays. ![The original graph: A 3-by-4 panel of line charts](/assets/images/2018/07/image001-before.png) Notice how the X- and Y- axes are aligned between all the subplots. Such alignment is a smart move that provides a shared scale and allows faster and more natural comparison between the curves. You should always try aligning your axes. If aligning isn’t possible, make sure that it is absolutely, 100%, clear that the scales are different. Slight differences are very confusing.
 

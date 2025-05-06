@@ -13,7 +13,7 @@ tags:
 
 Two years ago I visited Chișinău (Kishinev), the city in Moldova where I was born and where I grew up until the age of fifteen. Today I saw a [post with photos from the ancient Chișinău Jewish cemetery](https://vanishedworld.blog/2019/03/02/news-from-chisinau-jewish-cemetery/) and recalled that I too, took many pictures from that sad place. Less than half of the original cemetery survived to these days. The bigger part of it was demolished in the 1960s in favor of a park and a residential area. If you scroll through the pictures below, you will be able to see how they used tombstones to build the park walls.
 
-Another notable feature of many Jewish cemeteries is memorial plates in memoriam of the relatives who don't have their own graves -- the relatives who were murdered over the course of the Jewish history.
+Another notable feature of many Jewish cemeteries is memorial plates in memoriam of the relatives who don't have their own graves &mdash; the relatives who were murdered over the course of the Jewish history.
 
 ![](/assets/images/2019/03/2017_03_20_49.jpg)
 

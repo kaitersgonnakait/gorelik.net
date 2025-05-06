@@ -12,16 +12,16 @@ tags:
 coverImage: "/assets/images/2020/06/wizard.png"
 ---
 
-A wizard is a person who continually improves his or her professional skill in a particular and defined field. I learned about this definition of wizardness from the book "[Managing project, people and yourself](https://bureau.ru/projects/book-fff/)" by Nikolay Toverosky (the book is in Russian).  
+A wizard is a person who continually improves his or her professional skill in a particular and defined field. I learned about this definition of wizardness from the book "[Managing project, people and yourself](https://bureau.ru/projects/book-fff/)" by Nikolay Toverosky (the book is in Russian).  
 
 Recently, Nikolay published an interesting post about the hazards of becoming a wizard. The gist of the idea is that while you are polishing your single skill to perfection, the world changes. You may find your super-skill irrelevant anymore (see my [Soviet Shoemaker story](https://gorelik.net/2020/06/01/career-advice-and-a-story-about-a-soviet-shoemaker/)).
 
-Nikolay doesn't give any suggestions. Neither do I. 
+Nikolay doesn't give any suggestions. Neither do I. 
 
-Below is the link to the original post. The post is in Russian, and you can [use Google Translate to read it](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fksoftware.livejournal.com%2F440464.html).
+Below is the link to the original post. The post is in Russian, and you can [use Google Translate to read it](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fksoftware.livejournal.com%2F440464.html).
 
 ![](/assets/images/2020/06/160600_1000.png?quality=80&ssl=1&strip=info&w=1600)
 
-> Страница о магах У меня в книге есть глава про полководцев и магов. В её конце я подвожу итог: Несмотря на свою кру­тость, маг уяз­вим. Он поле­зен, только если его навык под­хо­дит к задаче. 658 more words
+> Страница о магах У меня в книге есть глава про полководцев и магов. В её конце я подвожу итог: Несмотря на свою кру­тость, маг уяз­вим. Он поле­зен, только если его навык под­хо­дит к задаче. 658 more words
 > 
 > [Почему опасно быть магом — Об управлении проектами и дизайне](https://ksoftware.livejournal.com/440464.html)

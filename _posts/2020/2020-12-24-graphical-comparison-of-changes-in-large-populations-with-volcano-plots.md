@@ -12,7 +12,7 @@ tags:
   - "worst-practice"
 ---
 
-I recently rediscovered a **volcano plot** -- a scatter plot that aims to visualize changes in large populations.
+I recently rediscovered a **volcano plot** &mdash; a scatter plot that aims to visualize changes in large populations.
 
 Volcano plots are very technical and specialized and, most probably, are not a good fit for explanatory data visualization. However, they can be useful during the exploration phase, and they come with a set of well-established metrics.
 

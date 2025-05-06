@@ -28,4 +28,4 @@ As time passes by, tools become stronger, smarter, and faster. This means that a
 
 Back to data science. I think that in the near future, we will see more and more analogs of `list.sort()`. What does that mean to us, data scientists? I am not sure. What I'm sure is that in order to stay relevant we have to learn and evolve.
 
-Featured image by [Héctor López](https://unsplash.com/@hectrr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/emptiness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Featured image by [Héctor López](https://unsplash.com/@hectrr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/emptiness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

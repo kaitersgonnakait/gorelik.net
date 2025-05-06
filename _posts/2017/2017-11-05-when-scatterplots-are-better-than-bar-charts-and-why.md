@@ -14,7 +14,7 @@ coverImage: "/assets/images/2017/11/screen-shot-2017-11-05-at-22-16-48.png"
 
 From time to time, you might hear that graphical method A is better at representing problem X than method B. While in case of problem Z, the method B is much better than A, but C is also a possibility. Did you ever ask yourselves (or the people who tell you that) "Says WHO?"
 
-The guidelines like these come from theoretical and empirical studies. One such an example is a 1985 paper "[Graphical perception and graphical methods for analyzing scientific data.](https://www.ncbi.nlm.nih.gov/pubmed/17777913)" by Cleveland and McGill. I got the link to this paper from Varun Raj of [https://varunrajweb.wordpress.com/](https://varunrajweb.wordpress.com/).
+The guidelines like these come from theoretical and empirical studies. One such an example is a 1985 paper "[Graphical perception and graphical methods for analyzing scientific data.](https://www.ncbi.nlm.nih.gov/pubmed/17777913)" by Cleveland and McGill. I got the link to this paper from Varun Raj of [https://varunrajweb.wordpress.com/](https://varunrajweb.wordpress.com/).
 
 It looks like a very interesting and relevant paper, despite the fact that it has been it was published 22 years go. I will certainly read it. Following is the reading list that I compiled for my data visualization students more than two years ago. Unfortunately, they didn't want to read any of these papers. Maybe some of the readers of this blog will ...
 

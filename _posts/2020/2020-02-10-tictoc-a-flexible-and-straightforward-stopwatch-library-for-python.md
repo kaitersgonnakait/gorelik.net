@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TicToc -- a flexible and straightforward stopwatch library for Python."
+title: "TicToc &mdash; a flexible and straightforward stopwatch library for Python."
 date: 2020-02-10
 categories: 
   - "blog"
@@ -49,7 +49,7 @@ print(tt_overall)
 print(tt_cumulative)
 ```
 
-TicToc objects are created in a "running" state, i.e you don't have to start them using `tic`. To change this default behaviour, use
+TicToc objects are created in a "running" state, i.e you don't have to start them using `tic`. To change this default behaviour, use
 
 ```python
 tt = TicToc(start=False)

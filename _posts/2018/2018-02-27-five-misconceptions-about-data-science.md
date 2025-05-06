@@ -15,6 +15,6 @@ I especially liked the section called "What is a Data Scientist" that presents s
 
 > The analogy between the data scientist and a purple unicorn is still apt – finding an individual that satisfies any one of the top four diagrams above is rare.
 
- 
+ 
 
-Enjoy reading  [Five Misconceptions About Data Science – Knowing What You Don’t Know — Track 2 Analytics](http://track2analytics.com/2018/02/27/five-misconceptions-about-data-science-knowing-what-you-dont-know/)
+Enjoy reading  [Five Misconceptions About Data Science – Knowing What You Don’t Know — Track 2 Analytics](http://track2analytics.com/2018/02/27/five-misconceptions-about-data-science-knowing-what-you-dont-know/)

@@ -12,13 +12,13 @@ tags:
 coverImage: "/assets/images/2020/09/featured_image.015.jpeg"
 ---
 
-A population pyramid also called an "age-gender-pyramid", is a graphical illustration that shows the distribution of various age groups in a population (typically that of a country or region of the world), which forms the shape of a pyramid when the population is growing \[citation from [Wikipedia](https://en.wikipedia.org/wiki/Population_pyramid)\].
+A population pyramid also called an "age-gender-pyramid", is a graphical illustration that shows the distribution of various age groups in a population (typically that of a country or region of the world), which forms the shape of a pyramid when the population is growing \[citation from [Wikipedia](https://en.wikipedia.org/wiki/Population_pyramid)\].
 
-In some cases, the pyramid provides interesting insights into the entire population. In this post, I will explore ways to make some of these insights more visible. 
+In some cases, the pyramid provides interesting insights into the entire population. In this post, I will explore ways to make some of these insights more visible. 
 
 ## The basic case
 
-Let's start with the basic case. If you have two-three hours of spare time, you can go to the site devoted to population pyramids -- https://www.populationpyramid.net. There, you will find population pyramids for every country in the world. The site provides present and past data, as well as future forecasts. To understand how insightful age pyramids can be, look at the graph that represents the entire world.
+Let's start with the basic case. If you have two-three hours of spare time, you can go to the site devoted to population pyramids &mdash; https://www.populationpyramid.net. There, you will find population pyramids for every country in the world. The site provides present and past data, as well as future forecasts. To understand how insightful age pyramids can be, look at the graph that represents the entire world.
 
 ![](/assets/images/2020/09/image-1.png?w=862)
 
@@ -26,7 +26,7 @@ Let's start with the basic case. If you have two-three hours of spare time, you 
 
 You can clearly see that the world is mostly young, that the amount of people declines as the age progresses, and that there is a rough balance between men and women in the world, at least before the ages of 70+.
 
-Now, examine the stark difference between the populations of Western Africa and Western Europe. Citing the late professor Hans Rosling, we can still see two worlds, one with large families and short lives, and one with small families and long lives. 
+Now, examine the stark difference between the populations of Western Africa and Western Europe. Citing the late professor Hans Rosling, we can still see two worlds, one with large families and short lives, and one with small families and long lives. 
 
 ![](/assets/images/2020/09/image-2.png?w=936)
 
@@ -42,13 +42,13 @@ Do you want to guess what country is that? This particular graph shows the age d
 
 The male-female disbalance in the UAE and some other Gulf countries is very striking and cannot be missed. But what about other, more subtle cases? Take a look at the world graph above. If you follow the numbers on the bars, you will notice that more boys are born than girls, but there are more old ladies than old gents in the world. Can we make such differences less subtle?
 
-To answer this question, we need to understand why we find it hard to compare almost equal bars. The reason for that is that our eyes (or brains) are not so good at comparing sizes. They do, however, do a much better job comparing positions. Thus, if we overlap these bars, we will see the small differences in a much more precise manner. 
+To answer this question, we need to understand why we find it hard to compare almost equal bars. The reason for that is that our eyes (or brains) are not so good at comparing sizes. They do, however, do a much better job comparing positions. Thus, if we overlap these bars, we will see the small differences in a much more precise manner. 
 
 ![](/assets/images/2020/09/image-4.jpeg?w=676)
 
-(I thank the data visualization expert [Bella Graf](https://www.facebook.com/bella.gotie) from [InfoServiz.co.il](https://infoserviz.co.il/) for the idea of this graph).
+(I thank the data visualization expert [Bella Graf](https://www.facebook.com/bella.gotie) from [InfoServiz.co.il](https://infoserviz.co.il/) for the idea of this graph).
 
-Now, the subtle differences in gender composition are more visible. 
+Now, the subtle differences in gender composition are more visible. 
 
 ## What am I looking at?
 

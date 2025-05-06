@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mammogram, breast cancer, and manipulative statistics"
+title: "Mammogram, breast cancer, and manipulative statistics"
 date: 2018-02-24
 categories: 
   - "blog"

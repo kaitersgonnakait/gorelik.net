@@ -15,15 +15,15 @@ tags:
   - "worst-practice"
 ---
 
-Recently, I stumbled upon a report called "[Understanding Today's Chief Data Scientis](http://www.heidrick.com/~/media/Publications%20and%20Reports/Understanding-Todays-Chief-Data-Scientist.pdf)t" published by an HR company called [Heidrick & Struggles](http://www.heidrick.com/). This document tries to draw a profile of the modern chief data scientist in today's Big Data Era. This document contains the ugliest pieces of data visualization I have seen in my life. I can't think of a more insulting graphical treatment of data. Publishing graph like these ones in a document that tries to discuss careers in data science is like writing a profile of a Pope candidate while accompanying it with pornographic pictures.
+Recently, I stumbled upon a report called "[Understanding Today's Chief Data Scientis](http://www.heidrick.com/~/media/Publications%20and%20Reports/Understanding-Todays-Chief-Data-Scientist.pdf)t" published by an HR company called [Heidrick & Struggles](http://www.heidrick.com/). This document tries to draw a profile of the modern chief data scientist in today's Big Data Era. This document contains the ugliest pieces of data visualization I have seen in my life. I can't think of a more insulting graphical treatment of data. Publishing graph like these ones in a document that tries to discuss careers in data science is like writing a profile of a Pope candidate while accompanying it with pornographic pictures.
 
 Before explaining my harsh attitude, let's first ask an important question.
 
 ### **What is the purpose of graphs in a report?**
 
-There are only two valid reasons to include graphs in a report. The first reason is to provide a meaningful glimpse into the document. Before a person decided whether he or she wants to read a long document, they want to know what is it about, what were the methods used, and what the results are. The best way to engage the potential reader to provide them with a set of relevant graphs (a good abstract or introduction paragraph help too). The second reason to include graphs in a document is to provide details that cannot be effectively communicating by text-only means.
+There are only two valid reasons to include graphs in a report. The first reason is to provide a meaningful glimpse into the document. Before a person decided whether he or she wants to read a long document, they want to know what is it about, what were the methods used, and what the results are. The best way to engage the potential reader to provide them with a set of relevant graphs (a good abstract or introduction paragraph help too). The second reason to include graphs in a document is to provide details that cannot be effectively communicating by text-only means.
 
-That's it! Only two reasons. Sometimes, we might add an illustration or two, to decorate a long piece of text. Adding illustrations _might be_ a valid decision provided that they do not compete with the data and it is obvious to any reader that an illustration is an illustration.
+That's it! Only two reasons. Sometimes, we might add an illustration or two, to decorate a long piece of text. Adding illustrations _might be_ a valid decision provided that they do not compete with the data and it is obvious to any reader that an illustration is an illustration.
 
 ### Let the horror begin!
 
@@ -31,7 +31,7 @@ The first graph in the H&S report stroke me with its absurdness.
 
 ![Example of a bad chart. I have no idea what it means](/assets/images/2018/01/01_wtf_is_this.png?w=600)
 
-At first glance, it looks like an overly-artistic doughnut chart. Then, you want to understand what you are looking at. "OK", you say to yourself, "there were 100 employees who belonged to five categories. But what are those categories? Can someone tell me? Please? Maybe the report references this figure with more explanations? Nope.  Nothing. This is just a doughnut chart without a caption or a title. Without a meaning.
+At first glance, it looks like an overly-artistic doughnut chart. Then, you want to understand what you are looking at. "OK", you say to yourself, "there were 100 employees who belonged to five categories. But what are those categories? Can someone tell me? Please? Maybe the report references this figure with more explanations? Nope.  Nothing. This is just a doughnut chart without a caption or a title. Without a meaning.
 
 I continued reading.
 
@@ -51,7 +51,7 @@ Finally, the report authors decided that it wasn't enough to draw smartly lookin
 
 ### Can't we treat these graphs as illustrations?
 
-Before co-founding the life-changing StackOverflow, Joel Spolsky was, among other things, an avid blogger. His blog, [JoelOnSoftware](https://joelonsoftware.com), was the first blog I started following. Joel writes mostly about the programming business and. In order not to intimidate the readers with endless text blocks, Joel tends to break the text with illustrations. In many posts, Joel uses pictures of a cute Husky as an illustration. Since JoelOnSoftware isn't a cynology blog, nobody gets confused by the sudden appearance of a Husky. Which is exactly what an illustration is - a graphical relief that doesn't disturb. But what would happen if Joel decided to include a meaningless class diagram? Sure a class diagram may impress the readers. The readers will also want to understand it and its connection to the text. Once they fail, they will feel angry, and rightfully so
+Before co-founding the life-changing StackOverflow, Joel Spolsky was, among other things, an avid blogger. His blog, [JoelOnSoftware](https://joelonsoftware.com), was the first blog I started following. Joel writes mostly about the programming business and. In order not to intimidate the readers with endless text blocks, Joel tends to break the text with illustrations. In many posts, Joel uses pictures of a cute Husky as an illustration. Since JoelOnSoftware isn't a cynology blog, nobody gets confused by the sudden appearance of a Husky. Which is exactly what an illustration is - a graphical relief that doesn't disturb. But what would happen if Joel decided to include a meaningless class diagram? Sure a class diagram may impress the readers. The readers will also want to understand it and its connection to the text. Once they fail, they will feel angry, and rightfully so
 
 ![Two screenshots of Joel's blog. One with a Husky, another one with a meaningless diagram](/assets/images/2018/01/joelspost.png)
 

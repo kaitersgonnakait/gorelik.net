@@ -18,7 +18,7 @@ Take a look at this interesting graph [taken from Reddit](https://www.reddit.com
 
 ![](/assets/images/2017/04/before.png?w=900)
 
-The chart provides fascinating information. However, to "decipher" it, the viewer needs to constantly switch between the chart and the legend to the right. Moreover, having to encode eight different categories, resulted in colors that are hard to distinguish. And if you happen to be a colorblind person, your chances to get the colors right are significantly lower.
+The chart provides fascinating information. However, to "decipher" it, the viewer needs to constantly switch between the chart and the legend to the right. Moreover, having to encode eight different categories, resulted in colors that are hard to distinguish. And if you happen to be a colorblind person, your chances to get the colors right are significantly lower.
 
 What is the solution to this problem? Let's reduce the distance between the labels and the data by putting the labels and the data together.
 
@@ -32,4 +32,4 @@ Notice the multiple advantages of the "after" version. First, the viewer doesn't
 
 Having the ability to add a legend with any number of categories, using only one code line is super convenient and useful, especially, during data exploration. However, when shared with the public, graphs need to contain as fewer legends as practically needed. Remove the legends, place the labels close to the data. If doing so results in unreadable overlapping labels, refine the graph, rethink your message, combine categories. This may take time and cause frustration, but the result might surprise you. If none of these is possible, put the legend back. At least you tried.
 
-Chart legends are like Muttonchops -- the fact that you can have them doesn't mean you should.
+Chart legends are like Muttonchops &mdash; the fact that you can have them doesn't mean you should.

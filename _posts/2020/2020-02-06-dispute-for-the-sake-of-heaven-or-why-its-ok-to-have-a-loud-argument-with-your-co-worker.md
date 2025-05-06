@@ -14,7 +14,7 @@ coverImage: "/assets/images/2020/02/argument2.png"
 >   
 > Chapters of the Fathers 5:27
 
-One day, I had an intense argument with a colleague at my [previous place of work, Automattic](https://gorelik.net/2020/01/13/how-i-got-a-dream-job-in-a-distributed-company-and-why-i-am-leaving-it/). Since most of the communication in Automattic happens in internal blogs that are visible to the entire company, this was a public dispute. In a matter of a couple of hours, some people contacted me privately on Slack. They told me that the message exchange sounded aggressive, both from my side and from the side of my counterpart. I didn't feel that way. In this post, I want to explain why it is OK to have a loud argument with your co-workers.
+One day, I had an intense argument with a colleague at my [previous place of work, Automattic](https://gorelik.net/2020/01/13/how-i-got-a-dream-job-in-a-distributed-company-and-why-i-am-leaving-it/). Since most of the communication in Automattic happens in internal blogs that are visible to the entire company, this was a public dispute. In a matter of a couple of hours, some people contacted me privately on Slack. They told me that the message exchange sounded aggressive, both from my side and from the side of my counterpart. I didn't feel that way. In this post, I want to explain why it is OK to have a loud argument with your co-workers.
 
 ## How it all began?
 
@@ -39,4 +39,4 @@ I assume that X was angry when he wrote some of the things he wrote. I also beli
 I'm sure though that it was this argument that enabled us to define the main "pain" points for both sides of the dispute. As long as the dispute was about ideas, not personas, and as long as the dispute's goal was for the sake of the common good, it was worth it. To my current and future colleagues: if you hear me arguing loudly, please know that this is a "dispute that is for the sake of Heaven \[that\] is destined to endure."
 
   
-Featured image: Source: http://mimiandeunice.com/; Bees image: Photo by Flickr user [silangel](https://www.flickr.com/photos/silangel/), modified. Under the CC-BY-NC license.
+Featured image: Source: http://mimiandeunice.com/; Bees image: Photo by Flickr user [silangel](https://www.flickr.com/photos/silangel/), modified. Under the CC-BY-NC license.

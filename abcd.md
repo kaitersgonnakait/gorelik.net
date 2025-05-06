@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ABCD of data visualization -- the book"
+title: "ABCD of data visualization &mdash; the book"
 date: 2020-04-05
 ---
 

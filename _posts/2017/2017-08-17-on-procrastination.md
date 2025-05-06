@@ -11,15 +11,15 @@ tags:
 coverImage: "/assets/images/2017/08/do_it-e1502999642980.jpg"
 ---
 
-I don't know anyone, except my wife, who doesn't consider themselves procrastinator. I procrastinate a lot. Sometimes, when procrastinating,  I read about procrastination. Here's a list of several recent blog posts about this topic. Read these posts if you have something more important to do\*.
+I don't know anyone, except my wife, who doesn't consider themselves procrastinator. I procrastinate a lot. Sometimes, when procrastinating,  I read about procrastination. Here's a list of several recent blog posts about this topic. Read these posts if you have something more important to do\*.
 
 ![procrastination_quote](/assets/images/2017/08/procrastination_quote.jpg)
 
- [An Ode to the Deadlines](https://theturquoiseink.com/2017/08/16/an-ode-to-the-deadlines/) competes with [An Ode to Procrastination](https://terminallyunique.me/2017/08/13/an-ode-to-procrastination/).
+ [An Ode to the Deadlines](https://theturquoiseink.com/2017/08/16/an-ode-to-the-deadlines/) competes with [An Ode to Procrastination](https://terminallyunique.me/2017/08/13/an-ode-to-procrastination/).
 
-[I’ll Think of a Title Tomorrow](https://agencyof0ne.wordpress.com/2017/08/14/ill-think-of-a-title-tomorrow-a-designers-guide-to-procrastination/) Talks about procrastination from a designer's point of view. Although it is full of known truths, such as "stop thinking, start doing", "fear is the mind killer", and others, it is nevertheless a refreshing reading.
+[I’ll Think of a Title Tomorrow](https://agencyof0ne.wordpress.com/2017/08/14/ill-think-of-a-title-tomorrow-a-designers-guide-to-procrastination/) Talks about procrastination from a designer's point of view. Although it is full of known truths, such as "stop thinking, start doing", "fear is the mind killer", and others, it is nevertheless a refreshing reading.
 
-The entire blog called [Unblock Results](https://unblockresults.com/blog/) is written by Nancy Linnerooth who seems to position herself as a productivity coach. I liked her last post [The Done List](https://unblockresults.com/2017/08/16/the-done-list/)[The Done List](https://unblockresults.com/2017/08/16/the-done-list/) that talks about a nice psychological trick of running Done lists instead of Todo lists. This trick plays well with the productivity system that I use in my everyday life. One day, I might describe my system in this blog.
+The entire blog called [Unblock Results](https://unblockresults.com/blog/) is written by Nancy Linnerooth who seems to position herself as a productivity coach. I liked her last post [The Done List](https://unblockresults.com/2017/08/16/the-done-list/)[The Done List](https://unblockresults.com/2017/08/16/the-done-list/) that talks about a nice psychological trick of running Done lists instead of Todo lists. This trick plays well with the productivity system that I use in my everyday life. One day, I might describe my system in this blog.
 
 We all know that reading can sometimes be hard. Thus, let me suggest a [TED talk titled Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU). You'll be able to enjoy it with a minimal mental effort.
 

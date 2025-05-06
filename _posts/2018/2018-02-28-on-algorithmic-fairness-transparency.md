@@ -21,6 +21,6 @@ Reading through the conference proceedings, I found a very interesting paper tit
 
 Skimming through this paper, I recalled a conversation I had about a year ago with a chief data scientist in a startup that provides short-term loans to people who need some money **now**. The major job of the data science team in that company was to assess the risk of a customer. From the explanation the chief data scientist gave, and from the data sources she described, it was clear that they train their model on the information whether a person is likely to receive a loan from a financial institution. When I pointed out that they exclude categories of people that are rejected but are likely to return the money. "Yes?" she said in a tone as if she couldn't see what the problem that I tried to raise was. "Well," I said, it's unfair for many customers, plus you're missing the chance to recruit customers who were rejected by others". "We have enough potential customers," she said. She didn't think fairness was an issue worth talking about.
 
- 
+ 
 
-The featured image is by [Søren Astrup Jørgensen from Unsplash](https://unsplash.com/photos/oux1EInHTM4)
+The featured image is by [Søren Astrup Jørgensen from Unsplash](https://unsplash.com/photos/oux1EInHTM4)

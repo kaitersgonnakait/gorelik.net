@@ -17,7 +17,7 @@ Let's first construct a toy example
 
 \[code lang="python"\] N = 100 x = np.random.randint(1, 5, N).astype(int) y = np.random.rand(N) d = pd.DataFrame(dict(x=x, y=y)) \[/code\]
 
-I'll use [%%timeit cell magic](http://ipython.readthedocs.io/en/stable/interactive/magics.html) which runs a Jupyter cell many times, and measures the time it takes to run the code.
+I'll use [%%timeit cell magic](http://ipython.readthedocs.io/en/stable/interactive/magics.html) which runs a Jupyter cell many times, and measures the time it takes to run the code.
 
 \[code lang="python"\]
 
@@ -31,7 +31,7 @@ This is the output:
 3.19 ms ± 253 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
 ```
 
- 
+ 
 
 I suspected that head() was not the most efficient way to take the first lines. I tried .iloc
 

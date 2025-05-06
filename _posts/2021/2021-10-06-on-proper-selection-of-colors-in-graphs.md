@@ -13,9 +13,9 @@ tags:
 coverImage: "/assets/images/2021/10/pexels-photo-1146851.jpeg"
 ---
 
-How do you properly select a colormap for a graph? What makes the [rainbow color map a wrong choice, and what are the proper alternatives?](https://gorelik.net/2020/08/17/what-is-the-biggest-problem-of-the-jet-and-rainbow-color-maps-and-why-is-it-not-as-evil-as-i-thought/)
+How do you properly select a colormap for a graph? What makes the [rainbow color map a wrong choice, and what are the proper alternatives?](https://gorelik.net/2020/08/17/what-is-the-biggest-problem-of-the-jet-and-rainbow-color-maps-and-why-is-it-not-as-evil-as-i-thought/)
 
-Today, I stumbled upon a lengthy post that provides an in-depth review of the theory behind our color perception. The article concentrates on quantitative colormaps but also includes information relevant to selecting proper colors for categories. 
+Today, I stumbled upon a lengthy post that provides an in-depth review of the theory behind our color perception. The article concentrates on quantitative colormaps but also includes information relevant to selecting proper colors for categories. 
 
 https://nightingaledvs.com/color-in-a-perceptual-uniform-way/
 

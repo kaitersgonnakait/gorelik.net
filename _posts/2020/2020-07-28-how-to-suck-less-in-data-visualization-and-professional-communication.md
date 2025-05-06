@@ -18,10 +18,10 @@ In technical communication, the main thing is to keep the main thing the main th
 
 ![](/assets/images/2020/07/image-2.png?w=1024)
 
-My second thesis is that you can quickly improve your graphs by merely adding a good title. The importance of good titles is [not new to my preaching](https://gorelik.net/2018/06/25/c-for-conclusion/), but I thought it was an excellent thing to formalize this thesis a bit, and I'm thankful to the NDR organizers for giving me this opportunity.
+My second thesis is that you can quickly improve your graphs by merely adding a good title. The importance of good titles is [not new to my preaching](https://gorelik.net/2018/06/25/c-for-conclusion/), but I thought it was an excellent thing to formalize this thesis a bit, and I'm thankful to the NDR organizers for giving me this opportunity.
 
 ![](/assets/images/2020/07/image-3.png?w=1024)
 
-Following is the slide stack from my [NDR presentation](https://ndrconf.ai/).
+Following is the slide stack from my [NDR presentation](https://ndrconf.ai/).
 
 https://www.slideshare.net/borisgorelik/the-biggest-missed-opportunity-in-data-visualization
