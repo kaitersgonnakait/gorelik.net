@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data Science &amp; Communication Consultant and Advisor
   | AI, Machine Learning, Data Visualization
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "kaitlinseng.com/gorelik.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /:year/:month/:day/:title
 
