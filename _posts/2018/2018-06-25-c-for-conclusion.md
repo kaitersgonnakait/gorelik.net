@@ -15,7 +15,7 @@ layout: "post"
 
 From time to time, I give a lecture about [most common mistakes in data visualization](https://gorelik.net/2018/03/21/three-most-common-mistakes-in-data-visualization-%E2%80%A8and-how-to-avoid-them-now-the-slides/). In this lection, I say that not adding a graph's conclusion as a title is an opportunity wasted
 
-![Screenshot. Slide deck. The slide says ](/assets/img/2018/06/screen-shot-2018-06-18-at-19-05-01.png){:width="3032"}
+![Screenshot. Slide deck. The slide says ](/assets/img/2018/06/screen-shot-2018-06-18-at-19-05-01.png){:width="3032" :class="alignnone"}
 
 In one of these lectures, a fresh university graduate commented that in her University, she was told to never write a conclusion in a graph. According to to the logic she was tought, a scientist is only supposed to show the information, and let his or her peer scientists draw the conclusions by themselves. This sounds like a valid demand except that it is, in my non-humble opinion, wrong. To understand why is that, let's review the arguments in favor of spelling out the conclusions.
 

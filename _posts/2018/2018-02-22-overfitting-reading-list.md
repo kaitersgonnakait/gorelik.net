@@ -13,7 +13,7 @@ cover_image: "/assets/img/2018/02/1200px-overfitting-svg.png"
 layout: "post"
 ---
 
-Overfitting is a situation in which a model accurately describes some data but not the phenomenon that generates that data. Overfitting was a huge problem in the good old times, where each data point was expensive, and researchers operated on datasets that could fit a single A4 sheet of paper. Today, with mega- giga- and tera-bytes datasets, overfitting is ... still a problem. A very painful one. Following is a short reading list on overfitting.
+Overfitting is a situation in which a model accurately describes some data but not the phenomenon that generates that data. Overfitting was a huge problem in the good old times, where each data point was expensive, and researchers operated on datasets that could fit a single A4 sheet of paper. Today, with mega giga and tera-bytes datasets, overfitting is ... still a problem. A very painful one. Following is a short reading list on overfitting.
 
 I would like to start with Mehmet Suzen mllib.wordpress.com who treats overfitting as "[inaccurate meme in supervised learning](https://mllib.wordpress.com/2017/08/17/understanding-overfitting-an-inaccurate-meme-in-supervised-learning/)"
 

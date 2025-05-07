@@ -51,7 +51,7 @@ Now I start getting it. Compare this
     ....
     ddof : int, optional
     Means Delta Degrees of Freedom. The divisor used in calculations
-    is ``N - ddof``, where ``N`` represents the number of elements.
+    is ``N  ddof``, where ``N`` represents the number of elements.
     <span style="color:#ff0000;"><strong>By default `ddof` is zero</strong></span>.
 
 

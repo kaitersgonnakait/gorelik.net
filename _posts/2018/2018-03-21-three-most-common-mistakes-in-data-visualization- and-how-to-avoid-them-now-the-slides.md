@@ -16,6 +16,6 @@ Yesterday, I talked in front of the Barcelona Data Science and Machine Learning 
 
 https://www.slideshare.net/borisgorelik/three-most-common-mistakes-in-data-visualization-and-how-to-avoid-them
 
-![Me in front of a screen that shows a bar chart](/assets/img/2018/03/me_in_bcn.png){:width="300"}
+![Me in front of a screen that shows a bar chart](/assets/img/2018/03/me_in_bcn.png){:width="300" :class="alignnone"}
 
 Enjoy!

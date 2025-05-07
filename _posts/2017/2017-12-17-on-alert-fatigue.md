@@ -18,7 +18,7 @@ I developed an anomaly detection system for Automattic internal dashboard. When 
 
  
 
-[caption id="attachment_1942" align="alignnone" width="2298"]![Screenshot of the presentation speaker notes. ](/assets/img/2017/12/screen-shot-2017-12-16-at-17-26-23.png){:width="2298"} My speaker notes. Note how "error costs" was the first problem I dismissed.[/caption]
+[caption id="attachment_1942" align="alignnone" width="2298"]![Screenshot of the presentation speaker notes. ](/assets/img/2017/12/screen-shot-2017-12-16-at-17-26-23.png){:width="2298" :class="alignnone"} My speaker notes. Note how "error costs" was the first problem I dismissed.[/caption]
 
  
 
@@ -26,6 +26,6 @@ I recalled about Stu's request to stop talking about "zero cost" of false alerts
 
 The lesson of this story is that there is no such a thing as zero-cost false alarms. Lack of specificity is a serious problem.
 
-![Screenshot: me texting Stu that he was right](/assets/img/2017/12/youwereright.png){:width="1410"}
+![Screenshot: me texting Stu that he was right](/assets/img/2017/12/youwereright.png){:width="1410" :class="alignnone"}
 
 <small>Feature image by <a href="https://unsplash.com/photos/9rloii_qmmwhttps://unsplash.com/photos/9rloii_qmmw" target="_blank" rel="noopener">Ray Hennessy</a></small>

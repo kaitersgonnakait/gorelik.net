@@ -13,7 +13,7 @@ layout: "post"
 
 I don't know anyone, except my wife, who doesn't consider themselves procrastinator. I procrastinate a lot. Sometimes, when procrastinating,  I read about procrastination. Here's a list of several recent blog posts about this topic. Read these posts if you have something more important to do*.
 
-![procrastination_quote](/assets/img/2017/08/procrastination_quote.jpg){:width="640"}
+![procrastination_quote](/assets/img/2017/08/procrastination_quote.jpg){:width="640" :class="alignnone"}
 
 [ An Ode to the Deadlines](https://theturquoiseink.com/2017/08/16/an-ode-to-the-deadlines/) competes with [An Ode to Procrastination](https://terminallyunique.me/2017/08/13/an-ode-to-procrastination/).
 

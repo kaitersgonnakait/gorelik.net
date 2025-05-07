@@ -12,12 +12,6 @@ cover_image: "/assets/img/2020/03/so_jobs.png"
 layout: "post"
 ---
 
-<!-- wp:paragraph -->
 I suppose that you knot that THE software developement Q&A site has [its own job board](https://stackoverflow.com/jobs). I suspected that the Corona pandemic would lead to a sharp decrease in the number of job postings on that board. I scraped the data, and it looks like for now, there are no drastic changes in the amount of postings published in the last couple of days.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":3093,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/2020/03/so_jobs.png" class="wp-image-3093"></figure>
-<!-- /wp:image -->
+![](/assets/img/2020/03/so_jobs.png)

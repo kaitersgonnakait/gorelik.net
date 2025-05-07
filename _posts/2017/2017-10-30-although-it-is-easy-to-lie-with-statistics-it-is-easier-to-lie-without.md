@@ -13,7 +13,7 @@ tags:
 layout: "post"
 ---
 
-I really recommend reading this (longish) post by Tom Breur called "[Data Dredging](http://wp.me/p7DGSv-7Q)" (and following his blog. The post is dedicated to **overfitting** -- the most scaring problem in machine learning. Overfitting is easy to do and is hard to avoid. It is a serious problem when working with "small data" but is also a problem in the big data era. Read "[Data Dredging](http://wp.me/p7DGSv-7Q)" for an overview of the problem and its possible cures.
+I really recommend reading this (longish) post by Tom Breur called "[Data Dredging](http://wp.me/p7DGSv-7Q)" (and following his blog. The post is dedicated to **overfitting** - the most scaring problem in machine learning. Overfitting is easy to do and is hard to avoid. It is a serious problem when working with "small data" but is also a problem in the big data era. Read "[Data Dredging](http://wp.me/p7DGSv-7Q)" for an overview of the problem and its possible cures.
 
 Quoting Tom Breur:
 

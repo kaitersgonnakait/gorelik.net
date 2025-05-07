@@ -17,11 +17,11 @@ Uncertainty is one of the most neglected aspects of number-based communication a
 
 Last week I read a paper called [Value-Suppressing Uncertainty Palettes](http://idl.cs.washington.edu/papers/uncertainty-palettes), by M.Correll, D. Moritz, and J. Heer from the Data visualization and interactive analysis research at the University of Washington. This paper describes an interesting approach to color-encoding uncertainty.
 
-![Value-Suppressing Uncertainty Palette](/assets/img/2018/08/screen-shot-2018-08-12-at-15-38-04.png){:width="288"}
+![Value-Suppressing Uncertainty Palette](/assets/img/2018/08/screen-shot-2018-08-12-at-15-38-04.png){:width="288" :class="alignnone"}
 
 Uncertainty visualization is commonly done by reducing color saturation and opacity.  Cornell et al suggest combining saturation reduction with limiting the number of possible colors in a color palette. Unfortunately, there the authors used [Javascript and not python for this paper](https://github.com/uwdata/vsup), which means that in the future, I *might* try implementing it in python.
 
-![Two figures visualizing poll data over the USA map, using different approaches to visualize uncertainty](/assets/img/2018/08/screen-shot-2018-08-12-at-15-44-55.png){:width="1158"}
+![Two figures visualizing poll data over the USA map, using different approaches to visualize uncertainty](/assets/img/2018/08/screen-shot-2018-08-12-at-15-44-55.png){:width="1158" :class="alignnone"}
 
  
 

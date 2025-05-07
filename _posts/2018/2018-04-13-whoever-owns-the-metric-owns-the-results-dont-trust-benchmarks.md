@@ -1,5 +1,5 @@
 ---
-title: "Whoever owns the metric owns the results -- don't trust benchmarks"
+title: "Whoever owns the metric owns the results &mdash; don't trust benchmarks"
 date: 2018-04-13
 categories: 
  - "blog"
@@ -21,7 +21,7 @@ In that benchmark, the authors compute prime numbers using the following Python 
 def get_primes7(n):
 	"""
 	standard optimized sieve algorithm to get a list of prime numbers
-	--- this is the function to compare your functions against! ---
+	-- this is the function to compare your functions against! ---
 	"""
 	if n < 2:
 		return []
@@ -39,7 +39,7 @@ def get_primes7(n):
 	m = 3
 	while m <= mroot:
 		if s[i]:
-			j = (m * m - 3) // 2  # int div
+			j = (m * m  3) // 2  # int div
 			s[j] = 0
 			while j =6, Returns a array of primes, 2 <= p <span id="mce_SELREST_start" style="overflow:hidden;line-height:0;"></span>< n """
     sieve = np.ones(n//3 + (n%6==2), dtype=np.bool)

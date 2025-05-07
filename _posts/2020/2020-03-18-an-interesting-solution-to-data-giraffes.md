@@ -9,40 +9,26 @@ tags:
  - "dataviz"
  - "giraffe"
 layout: "post"
+cover_image: /assets/img/2020/03/giraffe-animal-funny-facial-expression-39504.webp
 ---
 
-<!-- wp:paragraph -->
 A data giraffe is a situation where a very prominent data point shades everything else. I learned this term from a [post by Pini Yakuel](https://www.optimove.com/blog/beware-the-giraffes-in-your-data) and immediately liked it a lot.
 
+![](/assets/img/2020/03/null-7.png)
 
-<!-- /wp:paragraph -->
+Taken from [https://www.optimove.com/blog/beware-the-giraffes-in-your-data](https://www.optimove.com/blog/beware-the-giraffes-in-your-data)
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="/assets/img/2020/03/null-7.png" alt="" title=""><figcaption>Taken from <a href="https://www.optimove.com/blog/beware-the-giraffes-in-your-data">https://www.optimove.com/blog/beware-the-giraffes-in-your-data</a></figcaption></figure>
-<!-- /wp:image -->
+![](/assets/img/2020/03/null-8.png)
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="/assets/img/2020/03/null-8.png" alt="" title=""><figcaption>Taken from <a href="https://www.optimove.com/blog/beware-the-giraffes-in-your-data">https://www.optimove.com/blog/beware-the-giraffes-in-your-data</a></figcaption></figure>
-<!-- /wp:image -->
+Taken from [https://www.optimove.com/blog/beware-the-giraffes-in-your-data](https://www.optimove.com/blog/beware-the-giraffes-in-your-data)
 
-<!-- wp:paragraph -->
 Dealing with data giraffes is hard, especially when dealing with bar charts. Today I saw one interesting approach to this problem
 
+Katherine S. Rowell is a co-funder of a Boston firm that specializes in data visualization. In December, she published a [post dedicated to one of the most popular but also most abused graph types, the bar charts](http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/). One of the examples in her post demonstrates a nice treatment of data giraffes
 
-<!-- /wp:paragraph -->
+![](/assets/img/2020/03/null-9.png)
 
-<!-- wp:paragraph -->
-Katherine S. Rowell is a co-funder of a Boston firm that specializes in data visualization. In December, she published a[ post dedicated to one of the most popular but also most abused graph types, the bar charts](http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/). One of the examples in her post demonstrates a nice treatment of data giraffes
+[http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/](http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/)
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="/assets/img/2020/03/null-9.png" alt="" title=""><figcaption><a href="http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/">http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/</a></figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-In this example, Katherine draws the graph twice. The zoomed-out version shows the giraffes in all their glory, while the zoomed-in one gives the spotlight to the foxes, hyenas, and mice.<br>Also, note how these graphs respect the rules that every bar chart has to include the zero.
-
-
-<!-- /wp:paragraph -->
+In this example, Katherine draws the graph twice. The zoomed-out version shows the giraffes in all their glory, while the zoomed-in one gives the spotlight to the foxes, hyenas, and mice.  
+Also, note how these graphs respect the rules that every bar chart has to include the zero.

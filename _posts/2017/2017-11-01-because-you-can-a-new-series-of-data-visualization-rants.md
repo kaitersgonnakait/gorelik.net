@@ -1,5 +1,5 @@
 ---
-title: "Because you can -- a new series of data visualization rants"
+title: "Because you can &mdash; a new series of data visualization rants"
 date: 2017-11-01
 categories: 
  - "blog"

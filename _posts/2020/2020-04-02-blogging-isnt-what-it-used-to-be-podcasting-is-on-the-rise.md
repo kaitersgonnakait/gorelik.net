@@ -9,26 +9,13 @@ tags:
  - "podcast"
  - "podcasting"
 layout: "post"
+cover_image: /assets/img/2020/04/pexels-photo-1054713.webp
 ---
 
-<!-- wp:paragraph -->
 More than two years ago, I took a look at Google Trends for three phrases "start a blog", "create a blog", and  "create a site". [I was surprised by the high volume of blog searches, compared to "create a site"](https://gorelik.net/2018/02/26/blogging-isnt-what-it-used-to-be/).
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 Today, I decided to go back to Google Trends and to add the [new rising star](https://trends.google.com/trends/explore?date=all&q=create%20a%20blog,start%20a%20blog,create%20a%20site,start%20a%20podcast): podcasting. 
 
+![](/assets/img/2020/04/image-1.png)
 
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":3142,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/2020/04/image-1.png" alt="" class="wp-image-3142"></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
 It looks like podcasting starts its exponential growth, while the blogging continues its slow but steady decline. I will be unsurprised if, in 2022, the green, podcasting line will surpass the other lines in this graph. Let's wait and see.
-
-
-<!-- /wp:paragraph -->

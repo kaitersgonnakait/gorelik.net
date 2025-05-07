@@ -15,4 +15,4 @@ I know a lot of people who dreamt of being a cosmonaut or an astronaut. I was on
 
 There are 193 UN member countries. Do you know that, according to Wikipedia, there are only 13 (thirteen!) people who are confirmed to visit all of these countries? [[ref](https://en.wikipedia.org/wiki/List_of_people_by_number_of_countries_visited)] It's 43 times less than the number of astronauts!
 
-![558 people visited space; 13 people visited all the countries in the world](/assets/img/2018/03/screen-shot-2018-03-01-at-23-20-18.png){:width="2438"}
+![558 people visited space; 13 people visited all the countries in the world](/assets/img/2018/03/screen-shot-2018-03-01-at-23-20-18.png){:width="2438" :class="alignnone"}

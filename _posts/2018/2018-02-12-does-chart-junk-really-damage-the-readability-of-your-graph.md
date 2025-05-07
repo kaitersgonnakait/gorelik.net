@@ -13,12 +13,12 @@ tags:
 layout: "post"
 ---
 
-![Screen Shot 2018-02-12 at 16.32.56](/assets/img/2018/02/screen-shot-2018-02-12-at-16-32-561.png){:width="225"}Data-ink ratio is considered to be THE guiding principle in data visualization. Coined by Edward Tufte, data-ink is "the non-erasable core of a graphic, the non-redundant ink arranged in response to variation in the numbers represented." According to Tufte, the ratio of the data-ink out of all the "ink" in a graph should be as high as possible, preferably, 100%.
+![Screen Shot 2018-02-12 at 16.32.56](/assets/img/2018/02/screen-shot-2018-02-12-at-16-32-561.png){:width="225" :class="alignright"}Data-ink ratio is considered to be THE guiding principle in data visualization. Coined by Edward Tufte, data-ink is "the non-erasable core of a graphic, the non-redundant ink arranged in response to variation in the numbers represented." According to Tufte, the ratio of the data-ink out of all the "ink" in a graph should be as high as possible, preferably, 100%.
 Everyone who considers themselves serious about data visualization knows (either formally, or intuitively) about the importance to keep the data-ink ratio high, the merits of high signal-to-noise ratio, the need to keep the "chart junk" out. Everybody knows it. But are there any empirical studies that corroborate this "knowledge"? One of such studies was published in 1988 by James D. Kelly in a report titled "[The Data-Ink Ratio and Accuracy of Information Derived from Newspaper Graphs: An Experimental Test of the Theory](https://files.eric.ed.gov/fulltext/ED295203.pdf)."
 
 In the study presented by J.D. Kelly, the researchers presented a series of newspaper graphs to a group of volunteers. The participants had to look at the graphs and answer questions. A different group of participants was exposed to similar graphs that underwent rigorous removal of all the possible "chart junk." One such an example is shown below
 
-![Two bar charts based on identical data. One - with "creative" illustrations. The other one only presents the data.](/assets/img/2018/02/dataink.png){:width="1200"}
+![Two bar charts based on identical data. One  with "creative" illustrations. The other one only presents the data.](/assets/img/2018/02/dataink.png){:width="1200" :class="alignnone"}
 
 Unexpectedly enough, there was no difference between the error rate the two groups made. "Statistical analysis of results showed that control groups and treatment groups made a nearly identical number of errors. Further examination of the results indicated that no single graph produced a significant difference between the control and treatment conditions."
 

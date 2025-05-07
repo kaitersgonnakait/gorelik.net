@@ -1,5 +1,5 @@
 ---
-title: "Anomaly detection in time series -- now the video"
+title: "Anomaly detection in time series &mdash; now the video"
 date: 2017-08-14
 categories: 
  - "blog"

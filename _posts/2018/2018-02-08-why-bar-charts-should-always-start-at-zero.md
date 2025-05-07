@@ -18,7 +18,7 @@ Data visualization is a language. Like any language, data visualization has its 
 
 Natan Yau from flowingdata.com has a very informative post
 
-![Screenshot of flowingdata.com post "Bar Chart Baselines Start at Zero"](/assets/img/2018/02/screen-shot-2018-02-08-at-21-14-22.png){:width="300"}
+![Screenshot of flowingdata.com post "Bar Chart Baselines Start at Zero"](/assets/img/2018/02/screen-shot-2018-02-08-at-21-14-22.png){:width="300" :class="alignright"}
 
 that explores this exact point. [Read it](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/).
 

@@ -18,18 +18,18 @@ A large and popular Israeli Facebook group, "[The High-Tech Troubles](https://ww
 
 The data that I used in my analysis is available in [this spreadsheet](https://docs.google.com/spreadsheets/d/1YOKIYLrC4kHXW-2DoMuUnH8Q_gWf-m89jpDwXh_IdjA/htmlview?usp=sharing&sle=true). The survey organizers promise that they excluded groups and categories with insufficiently few answers, and we have to trust them in that. The results are divided into twenty professional categories such as 'Account Management,' 'Data Science', 'Support' and 'CXO' (which stands for an executive role). The salary groups are organized in exponential bins according to the years of experience: 0-1, 1-2, 2-4, 4-7; and more than seven years of experience. Some of the cell values are missing, I assume that these are the categories with too few responders. I took a look at the gap between the salary reported by women and the compensation reported by men.
 
-Let's take a look at the most complete set of data -- the groups of people with 1-2 years of experience. As we may see from the figure below, in thirteen out of twenty groups (65%), women get less money than men.
-![Gender compensation gap, 1-2 years of experience. Women earn less in 13 of 20 categories](/assets/img/2018/02/figure_001_one_year_.png){:width="497"}
+Let's take a look at the most complete set of data - the groups of people with 1-2 years of experience. As we may see from the figure below, in thirteen out of twenty groups (65%), women get less money than men.
+![Gender compensation gap, 1-2 years of experience. Women earn less in 13 of 20 categories](/assets/img/2018/02/figure_001_one_year_.png){:width="497" :class="alignnone"}
 
-Among the workers with 1 - 2 years of experience, the most discriminating fields are executives and security researchers. It is interesting to note the difference between two closely related fields: Data Science and BI/Data Analysts. The former is considered a more lucrative position. On average, the male data scientists get 11% more than their female colleagues, while male data analysts get 13% less than their female counterparts. I wonder how this difference relates to my (very limited) observation that most of the people who call themselves a BI expert are females, while most of the data scientists whom I know are males.
+Among the workers with 1  2 years of experience, the most discriminating fields are executives and security researchers. It is interesting to note the difference between two closely related fields: Data Science and BI/Data Analysts. The former is considered a more lucrative position. On average, the male data scientists get 11% more than their female colleagues, while male data analysts get 13% less than their female counterparts. I wonder how this difference relates to my (very limited) observation that most of the people who call themselves a BI expert are females, while most of the data scientists whom I know are males.
 
 As we have seen, there is no much gender equality for the young professionals. What happens when people gain experience? How does the gender compensation gap change after eight years of professional life? The situation is even worse. In fourteen, out of sixteen available fields, women get less money than men. The only field in which it pays to be a woman is the executive roles, where the women get 19% more than the men.
 
-![Gender compensation gap, more than 7 years of experience. Women earn less in 14 of 16 categories](/assets/img/2018/02/figure_002_seven_years_.png){:width="522"}
+![Gender compensation gap, more than 7 years of experience. Women earn less in 14 of 16 categories](/assets/img/2018/02/figure_002_seven_years_.png){:width="522" :class="alignnone"}
 
 To complete the picture, let's look at the gap dynamics over the years in all the occupation fields in that report.
 
-![Gender gap dynamics. 20 professional fields over different experience bins](/assets/img/2018/02/figure_004_dynamics_.png){:width="1140"}
+![Gender gap dynamics. 20 professional fields over different experience bins](/assets/img/2018/02/figure_004_dynamics_.png){:width="1140" :class="alignnone"}
 
 ### What do we learn from these findings?
 

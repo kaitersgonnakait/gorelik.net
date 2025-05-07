@@ -33,18 +33,14 @@ if __name__ == '__main__':
 You have:
 
 
-    * help string generation
+     help string generation
 
+     data type conversion
 
-    * data type conversion
+     default arguments
 
-
-    * default arguments
-
-
-    * zero boilerplate code
-
+     zero boilerplate code
 
 Magic!
 
-![Illustration: the famous XKCD ](/assets/img/2018/02/python.png){:width="264"}
+![Illustration: the famous XKCD ](/assets/img/2018/02/python.png){:width="264" :class="aligncenter"}

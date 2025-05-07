@@ -1,5 +1,5 @@
 ---
-title: "16-days work month -- The joys of the Hebrew calendar"
+title: "16-days work month &mdash; The joys of the Hebrew calendar"
 date: 2017-09-27
 categories: 
  - "blog"
@@ -15,13 +15,13 @@ I have counted the number of business days during this 31-day period (one day be
 
  
 
-![tishrei_working_days](/assets/img/2016/10/tishrei_working_days1.png){:width="591"}
+![tishrei_working_days](/assets/img/2016/10/tishrei_working_days1.png){:width="591" :class="alignnone"}
 
  
 
 Overall, this period consists of between 15 to 17 non-working days in a single month (31 days, mind you). This is how the working/not-working time during this month looks like this:
 
-![tishrei_workign_weeks.png](/assets/img/2016/10/tishrei_workign_weeks.png){:width="480"}
+![tishrei_workign_weeks.png](/assets/img/2016/10/tishrei_workign_weeks.png){:width="480" :class="alignnone"}
 
  
 
@@ -31,7 +31,7 @@ So, next time you wonder why your Israeli colleague, customer or partner barely
 
  
 
-(*) New Year starts in the seventh's month? I know this is confusing. That's because we number Nissan -- the month of the Exodus from Egypt as the first month.
+(*) New Year starts in the seventh's month? I know this is confusing. That's because we number Nissan - the month of the Exodus from Egypt as the first month.
 (**)If you are an observing Jew, you should add to this list Fast of Gedalia, but we will omit it from this discussion
 
  

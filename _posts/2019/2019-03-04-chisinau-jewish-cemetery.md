@@ -11,19 +11,10 @@ tags:
 layout: "post"
 ---
 
-<!-- wp:paragraph -->
 Two years ago I visited Chișinău (Kishinev), the city in Moldova where I was born and where I grew up until the age of fifteen. Today I saw a [post with photos from the ancient Chișinău Jewish cemetery](https://vanishedworld.blog/2019/03/02/news-from-chisinau-jewish-cemetery/) and recalled that I too, took many pictures from that sad place. Less than half of the original cemetery survived to these days. The bigger part of it was demolished in the 1960s in favor of a park and a residential area. If you scroll through the pictures below, you will be able to see how they used tombstones to build the park walls.
 
+Another notable feature of many Jewish cemeteries is memorial plates in memoriam of the relatives who don't have their own graves - the relatives who were murdered over the course of the Jewish history.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-Another notable feature of many Jewish cemeteries is memorial plates in memoriam of the relatives who don't have their own graves -- the relatives who were murdered over the course of the Jewish history.
-
-
-<!-- /wp:paragraph -->
-
-<!-- wp:jetpack/tiled-gallery {"ids":[2440,2439,2438,2437,2436,2435,2434,2433,2432,2431,2430,2429,2428,2427,2426,2425,2424,2423,2422,2421,2420,2419,2418,2417,2416,2415,2414,2412,2411,2410,2408,2407,2406]} -->
 <div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class="tiled-gallery__gallery">
 <div class="tiled-gallery__row">
 <div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="3648" data-id="2440" data-link="https://gorelik.net/2017_03_20_49/" data-url="https://gorelik.net/wp-content/uploads/2019/03/2017_03_20_49.jpg" data-width="2432" src="/assets/img/2019/03/2017_03_20_49.jpg"></figure></div>
@@ -84,6 +75,3 @@ Another notable feature of many Jewish cemeteries is memorial plates in memoriam
 <div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="3264" data-id="2406" data-link="https://gorelik.net/2017_03_20_01/" data-url="https://gorelik.net/wp-content/uploads/2019/03/2017_03_20_01.jpg" data-width="2448" src="/assets/img/2019/03/2017_03_20_01.jpg"></figure></div>
 </div>
 </div></div>
-
-
-<!-- /wp:jetpack/tiled-gallery -->

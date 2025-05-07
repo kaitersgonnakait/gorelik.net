@@ -13,6 +13,10 @@
                     {% include article/info-footer.html post=page %}
                 </header>
 
+                {% if page.cover_image %}
+                <img src="{{page.cover_image}}" class="cover-image">
+                {% endif %}
+
                 <div class="article-content">
                     {{ content }}
                 </div>

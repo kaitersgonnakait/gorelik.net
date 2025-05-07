@@ -12,14 +12,9 @@ tags:
  - "flu"
  - "infographics"
 layout: "post"
+excerpt: ""
 ---
 
-<!-- wp:image {"id":3045,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/2020/02/corona-1.png" alt="" class="wp-image-3045"></figure>
-<!-- /wp:image -->
+![](/assets/img/2020/02/corona-1.png)
 
-<!-- wp:paragraph -->
 Graph code: [here](https://gist.github.com/bgbg/ae80e1e9a83a9d220cd4ff59b3e682ab).
-
-
-<!-- /wp:paragraph -->

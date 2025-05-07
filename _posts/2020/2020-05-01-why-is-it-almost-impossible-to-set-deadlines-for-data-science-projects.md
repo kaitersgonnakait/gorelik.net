@@ -8,3 +8,5 @@ layout: "post"
 ---
 
 I wrote this post in 2017. For some reason, it started gaining traffic in the last two weeks. I reviewed this post and couldn't find any new insights. But maybe you can help me.
+
+[Why is it (almost) impossible to set deadlines for data science projects?](/2017/10/19/why-is-it-impossible-to-set-deadlines-for-data-science-projects/)

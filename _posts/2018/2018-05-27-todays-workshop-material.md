@@ -16,7 +16,7 @@ Today, I hosted a data visualization workshop, as a part of the workshop day adj
 
 If you want to see the code, you may [find it on GitHub](https://github.com/bgbg/datascience_dataviz_workshop). The slide deck is [available on Slideshare](https://www.slideshare.net/borisgorelik/three-most-common-mistakes-in-data-visualization)
 
-![Me in front of an audience](/assets/img/2018/05/img_20180527_130305-e1527434963885.jpg){:width="3991"}
+![Me in front of an audience](/assets/img/2018/05/img_20180527_130305-e1527434963885.jpg){:width="3991" :class="alignnone"}
 
  
 

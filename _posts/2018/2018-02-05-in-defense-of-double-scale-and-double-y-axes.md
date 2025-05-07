@@ -18,14 +18,14 @@ If you had a chance to talk to me about data visualization, you know that I disl
 
 When I tried to clarify my position on that student's problem, I found an interesting article by Financial Times commentator John Auther, called "Lies, Damned Lies and Statistics." In this article, John Auther reviews the many problems a double scale can create. He also shows different alternatives (such as normalization). However, at the end of that article, John Auther also provides strong and valid arguments in favor of the moderate use of double scales. John Auther notices strange dynamics of two metrics
 
-[caption id="attachment_2022" align="alignnone" width="1466"]![A chart with two Y axes - one for EURJPY exchange rate and the other for SPX Index](/assets/img/2018/02/screen-shot-2018-02-05-at-13-13-34.png){:width="1466"} Screenshot from the article https://t.co/UYVqZpSzdS (Financial Times)[/caption]
+[caption id="attachment_2022" align="alignnone" width="1466"]![A chart with two Y axes  one for EURJPY exchange rate and the other for SPX Index](/assets/img/2018/02/screen-shot-2018-02-05-at-13-13-34.png){:width="1466" :class="alignnone"} Screenshot from the article https://t.co/UYVqZpSzdS (Financial Times)[/caption]
 
 > It is extraordinary that two measures with almost nothing in common with each other should move this closely together. In early 2007 I noticed how they were moving together, and ended up writing an entire book attempting to explain how this happened.
 
 
 It is relatively easy to modify chart scales so that "two measures with almost nothing in common [...] move [...] closely together". However, it is hard to argue with the fact that it was the double scale chart that triggered that spark in the commentator's head.  He acknowledges that normalizing (or rebasing, as he puts it) would have resulted in a similar picture
 
-[caption id="attachment_2023" align="alignnone" width="1462"]![Graph that depicts the dynamics of two metrics, brought to the same scale](/assets/img/2018/02/screen-shot-2018-02-05-at-13-13-43.png){:width="1462"} Screenshot from the article https://t.co/UYVqZpSzdS (Financial Times)[/caption]
+[caption id="attachment_2023" align="alignnone" width="1462"]![Graph that depicts the dynamics of two metrics, brought to the same scale](/assets/img/2018/02/screen-shot-2018-02-05-at-13-13-43.png){:width="1462" :class="alignnone"} Screenshot from the article https://t.co/UYVqZpSzdS (Financial Times)[/caption]
 
 But
 

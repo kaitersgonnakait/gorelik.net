@@ -8,22 +8,11 @@ tags:
  - "gender-inequality"
  - "queeng"
 layout: "post"
+cover_image: /assets/img/2020/01/featured_queeng.png
 ---
 
-<!-- wp:paragraph -->
 Queeng is an ambitious project to change the way we play cards.
 
+<iframe width="610" height="343" src="https://www.youtube.com/embed/WUZMnlGP_wo" title="Queeng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- /wp:paragraph -->
-
-<!-- wp:core-embed/youtube {"url":"https:\/\/youtu.be\/WUZMnlGP_wo","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/WUZMnlGP_wo
-</div></figure>
-<!-- /wp:core-embed/youtube -->
-
-<!-- wp:paragraph -->
 You may consider supporting this project [here](https://www.indiegogo.com/projects/queeng-playing-cards#/).
-
-
-<!-- /wp:paragraph -->

@@ -1,5 +1,5 @@
 ---
-title: "Gender salary gap in the Israeli high-tech -- now the code"
+title: "Gender salary gap in the Israeli high-tech &mdash; now the code"
 date: 2018-02-07
 categories: 
  - "blog"

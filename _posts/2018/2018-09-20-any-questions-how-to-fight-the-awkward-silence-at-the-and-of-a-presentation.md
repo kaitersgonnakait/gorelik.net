@@ -24,6 +24,6 @@ You can even prepare a slide that answers your question. In the screenshot below
 
 My plan was that if nobody asks me anything, I would say "Thank you again. If you want to learn more practical advises about data visualization, watch the recording of my tutorial, where I present this method  <SLIDE TRANSFER, show the mockup of the "book">. Also, many people ask me about reading suggestions, this is what I suggest you read: <SLIDE TRANSFER, show the reading pointers>
 
-![Screen Shot 2018-09-17 at 10.10.21](/assets/img/2018/09/screen-shot-2018-09-17-at-10-10-21.png){:width="2600"}
+![Screen Shot 2018-09-17 at 10.10.21](/assets/img/2018/09/screen-shot-2018-09-17-at-10-10-21.png){:width="2600" :class="alignnone"}
 
 Luckily for me, there were questions after my talk. Luckily, one of these questions was about practical advice so I had a perfect excuse to show the next, pre-prepared, slide. Watch this moment on YouTube [here](https://youtu.be/3btpy146nGc?t=1h39m45s).

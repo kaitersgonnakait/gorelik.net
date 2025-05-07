@@ -9,25 +9,12 @@ tags:
 layout: "post"
 ---
 
-<!-- wp:paragraph -->
 If you plan working data analysis or processing, read the excellent post in the "stats with cats blog" titled "35 Ways Data Go Bad" post. I did experience each and every one of the 35 problems. However, this list is far from being complete. One should add the comprehensive list of [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time).
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
  
 
+![](https://statswithcats.files.wordpress.com/2020/07/error-cat-7.jpg?quality=80&strip=info&w=1600)
 
-<!-- /wp:paragraph -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://statswithcats.files.wordpress.com/2020/07/error-cat-7.jpg?quality=80&amp;strip=info&amp;w=1600" alt=""></figure>
-<!-- /wp:image -->
-
-<!-- wp:quote -->
 > When you take your first statistics class, your professor will be a kind person who cares about your mental well-being. OK, maybe not, but what the professor won’t do is give you real-world data sets. The data may represent things you find in the real world but the data set will be free of errors. […]
 > 
 > <cite><a href="http://statswithcats.net/2020/07/11/35-ways-data-go-bad/">35 Ways Data Go Bad — Stats With Cats Blog</a></cite>
-
-<!-- /wp:quote -->

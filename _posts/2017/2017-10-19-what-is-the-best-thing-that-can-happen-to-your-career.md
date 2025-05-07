@@ -19,7 +19,7 @@ Today, I've read a tweet by Sinan Aral ([@sinanaral](https://twitter.com/sinanar
 
 https://twitter.com/sinanaral/status/917162872362463232
 
-I've just realized that Ikigai is what happened to my career as a data scientist. There was no point in my professional life where I felt boredom or lack of motivation. Some people think that I'm good at what I'm doing. If they are right (which I hope they are), It is due to my love for what I have been doing since 2001. I am so thankful for being able to do things that I love, I care about, and am good at. Not only that, I'm being paid for that! The chart shared by Sinan Aral in his tweet should be guiding anyone in their career choices.
+I've just realized that Ikigai is what happened to my career as a data scientist. There was no point in my professional life where I felt boredom or lack of motivation. Some people think that I'm good at what I'm doing. If they are right (which I hope they are), It is due to my love for what I have been doing since  I am so thankful for being able to do things that I love, I care about, and am good at. Not only that, I'm being paid for that! The chart shared by Sinan Aral in his tweet should be guiding anyone in their career choices.
 
  
 

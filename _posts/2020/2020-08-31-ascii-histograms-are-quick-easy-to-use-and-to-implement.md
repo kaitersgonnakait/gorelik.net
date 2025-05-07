@@ -12,18 +12,8 @@ tags:
 layout: "post"
 ---
 
-<!-- wp:paragraph -->
 From time to time, we need to look at a distribution of a group of values. Histograms are, I think, the most popular way to visualize distributions. “Back in the old days,” when most of my work was done in the console, and when creating a plot from Python was required too many boilerplate code lines, I found a neat function that produced histograms using ASCII characters.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 Recently, I updated the python function that I use to create ASCII histograms. The updated function [[link](https://gist.github.com/bgbg/608d9ef4fd75032731651257fe67fc81)] uses more modern formatting and includes several signal-to-noise improvements. One can also use it with custom output functions, such as `logging.info`.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":3518,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/2020/08/image-12.png" alt="" class="wp-image-3518"></figure>
-<!-- /wp:image -->
+![](/assets/img/2020/08/image-12.png)

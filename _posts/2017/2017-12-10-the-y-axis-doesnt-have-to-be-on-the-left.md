@@ -13,7 +13,7 @@ layout: "post"
 
 Line charts are great to convey the evolution of a variable over the time. This is a typical chart. It has three key components, the X-axis that represents the time, the Y-axis that represents the tracked value, and the line itself.
 
-![A typical line chart. The Y-axis is on the left](/assets/img/2017/11/line_chart_the_default_version1.png){:width="599"}
+![A typical line chart. The Y-axis is on the left](/assets/img/2017/11/line_chart_the_default_version1.png){:width="599" :class="alignnone"}
 
 Usually, you will see the Y-axis at the left part of the graph. Unless you design for a Right-To-Left language environment, placing the Y-axis on the left makes perfect sense. However, left-side Y-axis isn't a hard rule.
 
@@ -21,11 +21,11 @@ In many cases, more importance is given to the most recent data point. For examp
 
 What happens if we move the axis to the right?
 
-![A slightly improved version. The Y-axis is on the right, adjacent to the most recent data point](/assets/img/2017/11/line_chart_improved_version1.png){:width="612"}![](){:width=""}
+![A slightly improved version. The Y-axis is on the right, adjacent to the most recent data point](/assets/img/2017/11/line_chart_improved_version1.png){:width="612" :class="alignnone"}![]()
 
 Now, today's price of XYZ stock is visible more clearly. Let's make the most important values explicitly clear:
 
-![The final version. The Y-axis is on the right, adjacent to the most recent data point. The axis ticks correspont to actual data points](/assets/img/2017/11/line_chart_even_better1.png){:width="614"}![](){:width=""}
+![The final version. The Y-axis is on the right, adjacent to the most recent data point. The axis ticks correspont to actual data points](/assets/img/2017/11/line_chart_even_better1.png){:width="614" :class="alignnone"}![]()
 
 There are two ways to obtain right-sided Y axis in matplotib. The first way uses a combination of
 

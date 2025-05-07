@@ -7,14 +7,9 @@ tags:
  - "announcement"
  - "data-visualization"
 layout: "post"
+excerpt: "הקליקו כאן לקבלת פרטים והרשמה!"
 ---
 
-<!-- wp:image {"id":3652,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><a href="https://he.gorelik.net/workshop/"><img src="/assets/img/2020/10/image-5.png" alt="" class="wp-image-3652"></a></figure>
-<!-- /wp:image -->
+[![](/assets/img/2020/10/image-5.png)](https://he.gorelik.net/workshop/)
 
-<!-- wp:paragraph -->
 [הקליקו כאן לקבלת פרטים והרשמה!](https://he.gorelik.net/workshop/)
-
-
-<!-- /wp:paragraph -->

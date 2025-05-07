@@ -13,7 +13,7 @@ tags:
 layout: "post"
 ---
 
-![Boris Gorelik teaching in front of an audience.](/assets/img/2018/08/me-at-euroscipy.jpeg){:width="1024"}
+![Boris Gorelik teaching in front of an audience.](/assets/img/2018/08/me-at-euroscipy.jpeg){:width="1024" :class="alignnone"}
 
 Yesterday, I gave a data visualization workshop at EuroSciPy 2018 in Trento. I spent HOURs building and improving it. I even developed a "simple to use, easy to follow, never failing formula" for data visualization process (I'll write about it later).
 

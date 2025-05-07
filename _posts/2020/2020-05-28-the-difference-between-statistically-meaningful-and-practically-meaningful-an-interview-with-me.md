@@ -13,44 +13,22 @@ cover_image: "/assets/img/2020/05/featured_image.008.jpeg"
 layout: "post"
 ---
 
-<!-- wp:paragraph -->
 Recently, I gave an [interview to the Techie Leadership](https://techieleadership.com/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009/) site. Andrei Crudu, the interviewer, made a helpful outline of the conversation. I marked the most important parts in bold.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-* Academic views on leadership;
-
-* Managing people isn’t for everyone;
-
-* Lessons from a practical approach;
-
-* Data Science is predominantly about data cleaning;
-
-* **The difference between statistically meaningful and practically meaningful;**
-
-* How sometimes companies tweak results to match expectations;
-
-* Bad managers make you appreciate the good managers;
-
-* **Giving credit, being decent and not cheating;**
-
-* All good teamwork starts with effective communication;
-
-* **You don’t know that the stuff that you know is unknown to others;**
+ Academic views on leadership;
+ Managing people isn’t for everyone;
+ Lessons from a practical approach;
+ Data Science is predominantly about data cleaning;
+ **The difference between statistically meaningful and practically meaningful;**
+ How sometimes companies tweak results to match expectations;
+ Bad managers make you appreciate the good managers;
+ **Giving credit, being decent and not cheating;**
+ All good teamwork starts with effective communication;
+ **You don’t know that the stuff that you know is unknown to others;**
 
 
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
 Overall, I enjoyed chatting with Andrei, and I hope you'll enjoy listening to the interview. If you have any comments, feel free sharing them here or on the [Techie Leadership size](https://techieleadership.com/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009/)
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:embed {"url":"https:\/\/techieleadership.com\/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009\/","type":"wp-embed","providerNameSlug":"","className":""} -->
-<figure class="wp-block-embed is-type-wp-embed"><div class="wp-block-embed__wrapper">
+<div class=" wp-block-embed is-type-wp-embed">
 https://techieleadership.com/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009/
-</div></figure>
-<!-- /wp:embed -->
+</div>

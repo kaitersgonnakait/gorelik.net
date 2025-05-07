@@ -16,7 +16,7 @@ layout: "post"
 
 I went through my [Machine Learning tag feed](https://wordpress.com/tag/machine-learning). Suddenly, I stumbled upon a pie chart that looked so terrible, I was sure the post would be about bad practices in data visualization. I was wrong. The chart was there to convey some information. The problem is that it is bad in so many ways. It is very hard to appreciate the information in a post that shows charts like that. Especially when the post talks about data science that relies so much on data visualization.
 
-[![](https://youthinnovationblogs.files.wordpress.com/2017/11/0-kgrhxubak1vxfhfi.png?quality=80&strip=info&w=400){:width=""}](https://youthinnovationblogs.wordpress.com/2017/11/06/math-required-for-machine-learning/)
+[![](https://youthinnovationblogs.files.wordpress.com/2017/11/0-kgrhxubak1vxfhfi.png?quality=80&strip=info&w=400)](https://youthinnovationblogs.wordpress.com/2017/11/06/math-required-for-machine-learning/)
 
 via [Math required for machine learning — Youth Innovation](https://youthinnovationblogs.wordpress.com/2017/11/06/math-required-for-machine-learning/)
 

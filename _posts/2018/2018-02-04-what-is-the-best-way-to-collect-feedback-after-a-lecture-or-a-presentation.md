@@ -24,14 +24,11 @@ working time: 5 minutes
 ### Ingredients
 
 
-    * Open-ended mandatory questions: 1 or 2
+     Open-ended mandatory questions: 1 or 2
 
+     Post-it notes: 1  2 per a learner
 
-    * Post-it notes: 1 - 2 per a learner
-
-
-    * Preventive amnesty: to taste
-
+     Preventive amnesty: to taste
 
 ### Procedure
 
@@ -50,8 +47,8 @@ Next, start with preventive amnesty, followed by mandatory questions, followed b
 
 That's it.
 
-When I teach using the [Data Carpentry](http://www.datacarpentry.org/) methods, each of my learners already has two post-it notes that they use to signal whether they are done with an assignment (green) or are stuck with it (red). In these cases, I ask them to use these notes to fill in their responses -- one post-it note for the positive feedback, and another one for the criticism. It always works like a charm.
+When I teach using the [Data Carpentry](http://www.datacarpentry.org/) methods, each of my learners already has two post-it notes that they use to signal whether they are done with an assignment (green) or are stuck with it (red). In these cases, I ask them to use these notes to fill in their responses - one post-it note for the positive feedback, and another one for the criticism. It always works like a charm.
 
-![A pile of green and red post-it notes with feedback on them](/assets/img/2018/02/feedback.jpg){:width="4128"}
+![A pile of green and red post-it notes with feedback on them](/assets/img/2018/02/feedback.jpg){:width="4128" :class="alignnone"}
 
  

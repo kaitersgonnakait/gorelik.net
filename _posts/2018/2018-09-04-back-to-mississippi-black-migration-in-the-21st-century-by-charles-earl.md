@@ -12,7 +12,7 @@ layout: "post"
 
 I wonder how this analysis of remained unnoticed by the social media
 
-[![](https://charlescearl.files.wordpress.com/2018/03/treemap_migration.jpg?quality=80&strip=info&w=1600){:width=""}](http://charlesearl.blog/2018/03/25/back-to-mississippi-speculations-on-black-migration-and-voting-in-the-21st-century/)
+[![](https://charlescearl.files.wordpress.com/2018/03/treemap_migration.jpg?quality=80&strip=info&w=1600)](http://charlesearl.blog/2018/03/25/back-to-mississippi-speculations-on-black-migration-and-voting-in-the-21st-century/)
 
 > The recent election of Doug Jones [...] got me thinking: What if the Black populations of Southern cities were to experience a dramatic increase? How many other elections would be impacted?
 

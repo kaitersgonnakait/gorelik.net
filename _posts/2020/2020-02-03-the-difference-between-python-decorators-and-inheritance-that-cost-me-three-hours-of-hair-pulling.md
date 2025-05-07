@@ -9,53 +9,25 @@ tags:
  - "inheritance"
  - "python"
 layout: "post"
+cover_image: /assets/img/2020/02/pexels-photo-763219.webp
 ---
 
-<!-- wp:paragraph -->
 I don't have much hair on my head, but recently, I encountered a funny peculiarity in Python due to which I have been pulling my hair for a couple of hours. In retrospect, this feature makes a lot of sense. In retrospect.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 First, let's start with the mental model that I had in my head: inheritance.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 Let's say you have a base class that defines a function `f`
 
+![](/assets/img/2020/02/image.png)
 
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":2952,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/2020/02/image.png" alt="" class="wp-image-2952"></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
 Now, you inherit from that class and rewrite `f`
 
+![](/assets/img/2020/02/image-1.png)
 
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":2953,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/2020/02/image-1.png" alt="" class="wp-image-2953"></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
 What happens? The fact that you defined `f` in `ClassB` means that, to a rough approximation, the old definition of `f` from `ClassA` does not exist in all the `ClassB` objects.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 Now, let's go to decorators.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:syntaxhighlighter/code {"language":"python"} -->
     @dataclass_json
     @dataclass
     class Message2:
@@ -67,22 +39,9 @@ Now, let's go to decorators.
             return ret
     m2 = Message2('m2', 2)
 
-<!-- /wp:syntaxhighlighter/code -->
 
-<!-- wp:paragraph -->
 What happened here? I used a decorator `dataclass_json` that, among other things, provides a `to_dict` function to Python's [data classes](https://docs.python.org/3/library/dataclasses.html). I created a class `Message2`, but I needed s custom `to_dict` definition. So, naturally, I defined a new version of `to_dict` only to discover several hours later that the new `to_dict` doesn't exist.
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 Do you get the point already? In inheritence, the custom implementations are added ON TOP of the base class. However, when you apply a decorator to a class, your class's custom code is BELOW the one provided by the decorator. Therefore, you don't override the decorating code but rather "underride" it (i.e., give it something it can replace).
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 As I said, it makes perfect sense, but still, I missed it. [I don't know whether I would have managed to find the solution without Stackoverflow](https://stackoverflow.com/questions/59882545/why-cant-i-override-to-dict-method-of-a-dataclass-object-that-uses-datacla/59884043#59884043).
-
-
-<!-- /wp:paragraph -->

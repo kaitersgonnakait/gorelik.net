@@ -12,4 +12,4 @@ Click on the image below to see the interview on Matthews' blog.
 
  
 
-[![30-Matthew-April27_26-30-1024x478](/assets/img/2016/05/30-matthew-april27_26-30-1024x478.png){:width="1024"}](http://www.buildyourownblog.net/blog/data-scientist-interview/?from=randomstratum.wordpress.com)
+[![30-Matthew-April27_26-30-1024x478](/assets/img/2016/05/30-matthew-april27_26-30-1024x478.png){:width="1024" :class="alignnone"}](http://www.buildyourownblog.net/blog/data-scientist-interview/?from=randomstratum.wordpress.com)

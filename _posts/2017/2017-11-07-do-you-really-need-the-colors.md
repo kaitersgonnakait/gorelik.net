@@ -22,7 +22,7 @@ layout: "post"
     >>> ax = sns.barplot(x="day", y="total_bill", data=tips)
 
 
-![Barplot example with colored bars](/assets/img/2017/11/barplot_before.png){:width="381"}
+![Barplot example with colored bars](/assets/img/2017/11/barplot_before.png){:width="381" :class="alignnone"}
 
 This example shows the default barplot and is the first barplot. Can you see how easy it is to add colors to the different columns? But WHY? What do those colors represent? It looks like the only information that is encoded by the color is the bar category. We already have this information in the form of bar location. Having this colorful image adds nothing but a distraction. It is sad that this is the default behavior that seaborn developers decided to adopt.
 
@@ -31,7 +31,7 @@ Look at the same example, without the colors
     >>> ax = sns.barplot(x="day", y="total_bill", color='gray', data=tips)
 
 
-![Barplot example with gray bars](/assets/img/2017/11/barplot_after.png){:width="381"}
+![Barplot example with gray bars](/assets/img/2017/11/barplot_after.png){:width="381" :class="alignnone"}
 
 Isn't it much better? The sad thing is that a better version requires memorizing additional arguments and more typing.
 
