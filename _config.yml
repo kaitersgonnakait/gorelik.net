@@ -25,7 +25,7 @@ nav_pages:
   - name: Directions Matters Newsletter
     url: "https://directionmatters.substack.com/"
   - name: Blog
-    url: /blog
+    url: /blog/
   - name: אני בעברית
     url: https://he.gorelik.net/
 

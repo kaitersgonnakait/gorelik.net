@@ -1,17 +1,18 @@
 ---
-layout: post
 title: "Never read reviews before reading a book (except for this one). On \"Surely You're Joking, Mr. Feynman!\""
 date: 2018-02-15
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "book-review"
-  - "feynman"
-  - "physics"
-coverImage: "/assets/images/2018/02/screen-shot-2018-02-15-at-23-37-05.png"
+ - "book-review"
+ - "feynman"
+ - "physics"
+cover_image: "/assets/img/2018/02/screen-shot-2018-02-15-at-23-37-05.png"
+layout: "post"
 ---
 
-Several people suggested that I read "[Surely You're Joking, Mr. Feynman!](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)". That is why, when I got my new Kindle, "Surely You're Joking, Mr. Feynman!" was the first book I bought. Richard Feynman was a trained theoretical physics who co-won the Nobel Prize. From reading the book, I discovered that Feynman was also a drummer, a painter, an expert on Native American mathematics, safecracker, a samba player, and an educator. The more I read this book, the more astonished I was about Feynman's personality and his story.
+Several people suggested that I read "[Surely You're Joking, Mr. Feynman!](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)". That is why, when I got my new Kindle, "Surely You're Joking, Mr. Feynman!" was the first book I bought.
+Richard Feynman was a trained theoretical physics who co-won the Nobel Prize. From reading the book, I discovered that Feynman was also a drummer, a painter, an expert on Native American mathematics, safecracker, a samba player, and an educator. The more I read this book, the more astonished I was about Feynman's personality and his story.
 
 When I was half the way through the book, I decided to read the Amazone reviews. When reading reviews, I tend to look for the one- and two- stars, to seed my critical thinking. I wish I haven't done that. The reviewers were talking about how arrogant and self-bragging man Feynman was, and how it must have been terrible to work with him. I almost stopped reading the book after being exposed to those reviews.
 

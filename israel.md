@@ -2,14 +2,15 @@
 layout: page
 title: "ערבים ומדינת ישראל"
 date: 2024-05-09
-coverImage: "/assets/images/2024/05/1948.webp"
+coverImage: "/assets/img/2024/05/1948.webp"
+rtl: true
 ---
 
 ## מבחר הפרקים של ״השבוע במזרח התיכון״ הדנים ביחסי הגומלין בין המדינה לאוכלוסייתה הערבית
 
 ניתן להירשם לפודקאסט [בספוטיפיי](https://open.spotify.com/show/3OdAqLobBlbxcIPL9UDDpD), לצפות בו ב־[יוטיוב](http://youtube.com/@hashavua) ובכל [יישומוני ההסכתים האחרים](https://podcasters.spotify.com/pod/show/hashavua/).
 
-[![](/assets/images/2024/05/image.png?w=990)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e22tinl)
+[![](/assets/img/2024/05/image.png?w=990)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e22tinl)
 
 ### יום העצמאות בחברה הערבית בישראל
 
@@ -18,7 +19,7 @@ coverImage: "/assets/images/2024/05/1948.webp"
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e22tinl)
 
-[![](/assets/images/2024/05/image-1.png?w=1016)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e1dr2r6)
+[![](/assets/img/2024/05/image-1.png?w=1016)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e1dr2r6)
 
 ### מדינת ישראל בעיניי החברה הערבית
 
@@ -26,7 +27,7 @@ coverImage: "/assets/images/2024/05/1948.webp"
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e1dr2r6)
 
-[![](/assets/images/2024/05/image-3.png?w=996)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eusgtd)
+[![](/assets/img/2024/05/image-3.png?w=996)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eusgtd)
 
 ### בעיית הפליטים. פרק א׳
 
@@ -35,15 +36,15 @@ coverImage: "/assets/images/2024/05/1948.webp"
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eusgtd)
 
-[![](/assets/images/2024/05/image-4.png?w=992)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eush8k)
+[![](/assets/img/2024/05/image-4.png?w=992)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eush8k)
 
 ### בעיית הפליטים. פרק ב׳
 
-המזרחן עדי שורץ מדבר על בעיית הפליטים הפלסטיניים. זהו החלק השני של סדרה בת שלושה חלקים.  
+המזרחן עדי שורץ מדבר על בעיית הפליטים הפלסטיניים. זהו החלק השני של סדרה בת שלושה חלקים.
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eush8k)
 
-![](/assets/images/2024/05/image-5.png?w=420)
+![](/assets/img/2024/05/image-5.png?w=420)
 
 ### עתיד בעיית הפליטים
 
@@ -51,17 +52,17 @@ coverImage: "/assets/images/2024/05/1948.webp"
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e1chsmg)
 
-[![](/assets/images/2024/05/image-6.png?w=998)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2d7ts1)
+[![](/assets/img/2024/05/image-6.png?w=998)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2d7ts1)
 
 ### סצנת התרבות הערבית בישראל
 
-"סצנת התרבות הערבית בישראל מתפתחת לצד, ביחד ולפעמים כנגד סצנת התרבות העברית־יהודית. ד״ר איריס פרוכטר רונן, היסטוריונית של המזרח התיכון, חוקרת תרבות וקולנוע מדברת על הסצנה הזאת. 
+"סצנת התרבות הערבית בישראל מתפתחת לצד, ביחד ולפעמים כנגד סצנת התרבות העברית־יהודית. ד״ר איריס פרוכטר רונן, היסטוריונית של המזרח התיכון, חוקרת תרבות וקולנוע מדברת על הסצנה הזאת.
 
 על מה דיברנו: המזרח התיכון, החברה הערבית בישראל, ערביי ישראל, פלסטינים, תרבות, חיפה"
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2d7ts1)
 
-[![](/assets/images/2024/05/image-7.png?w=998)](https://podcasters.spotify.com/pod/show/hashavua/episodes/1948-1967-e2dh2g8)
+[![](/assets/img/2024/05/image-7.png?w=998)](https://podcasters.spotify.com/pod/show/hashavua/episodes/1948-1967-e2dh2g8)
 
 ### יחסי עזה־מצרים בין 1948 ל־1967
 
@@ -71,7 +72,7 @@ coverImage: "/assets/images/2024/05/1948.webp"
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/1948-1967-e2dh2g8)
 
-[![](/assets/images/2024/05/image-9.png?w=1024)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2jf8gt/a-ab8ieo7)
+[![](/assets/img/2024/05/image-9.png?w=1024)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2jf8gt/a-ab8ieo7)
 
 ### מהגרי פנים
 
@@ -81,7 +82,7 @@ coverImage: "/assets/images/2024/05/1948.webp"
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2jf8gt/a-ab8ieo7)
 
-![](/assets/images/2024/05/image-10.png?w=1024)
+![](/assets/img/2024/05/image-10.png?w=1024)
 
 ### מנגל ביום העצמאות?
 

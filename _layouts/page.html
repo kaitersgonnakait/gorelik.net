@@ -6,11 +6,13 @@
     <div class="grid grid-centered">
         <div class="grid-cell">
             {% include navigation.html %}
-            <article class="article {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+            <article class="article {% if site.scrollappear_enabled %}scrollappear{% endif %} {% if page.rtl %}rtl-text{% endif %}">
+                {% if page.title %}
                 <header class="article-header">
                     <h1>{{ page.title }}</h1>
                     <p>{{ page.description }}</p>
                 </header>
+                {% endif %}
 
                 <div class="article-content">
                     {{ content }}

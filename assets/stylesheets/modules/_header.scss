@@ -49,6 +49,9 @@
   text-align: center;
   margin: 15px 0 0;
   list-style: none;
+  .active {
+    text-decoration: underline;
+  }
   li {
     display: inline-block;
     margin-left: 20px;
@@ -60,13 +63,15 @@
       font-size: 18px;
       color: $header-link-color;
       cursor: pointer;
+      text-decoration: none;
       svg {
         width: 16px;
         height: 16px;
         fill: $header-link-color;
       }
-      &:hover svg {
+      &:hover {
         fill: $header-link-color-hover;
+        text-decoration: underline;
       }
     }
   }

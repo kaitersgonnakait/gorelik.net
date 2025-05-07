@@ -1,25 +1,28 @@
 ---
-layout: post
-title: "Mammogram, breast cancer, and manipulative statistics"
+title: "Mammogram, breast cancer, and manipulative statistics"
 date: 2018-02-24
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "breast-cancer"
-  - "mammogram"
-  - "manipulation"
-  - "probability"
-  - "risk"
-  - "statistics"
+ - "breast-cancer"
+ - "mammogram"
+ - "manipulation"
+ - "probability"
+ - "risk"
+ - "statistics"
+layout: "post"
 ---
 
 Here's a quiz
 
-A healthy woman with no risk factors gets a positive mammogram result during a routine annual check. What is the probability that she actually has a breast cancer? Baseline data: The probability that a woman has breast cancer is 0.8%. If she has breast cancer, the probability that a mammogram will show a positive result is 90%. If a woman does not have breast cancer, the probability of a positive result is 7%.
+A healthy woman with no risk factors gets a positive mammogram result during a routine annual check. What is the probability that she actually has a breast cancer?
+Baseline data: The probability that a woman has breast cancer is 0.8%. If she has breast cancer, the probability that a mammogram will show a positive result is 90%. If a woman does not have breast cancer, the probability of a positive result is 7%.
 
-Prof. Gerd Gigerenzer gave this quiz to numerous students, physicians, and professors. Most of them failed this quiz. The correct answer is 9%. The probability that a healthy woman has a breast cancer if she has a positive mammogram test is only nine percent! This means that ninety percent of women who get a positive result will undergo stressful and painful series of tests only to discover that that was a false alarm. In his book "[Calculated Risks](https://www.thriftbooks.com/w/calculated-risks-how-to-know-when-numbers-deceive-you_gerd-gigerenzer/322505/#isbn=0743205561)", prof. Gigerenzer uses this low probability as a starting (but not the only) argument against the common practice of routine population-wide mammogram tests. However, I would like to propose another way to look at this problem. To understand my concern, let me first explain how we get the 9% figure. There are several ways to get to this result. One of them is as follows. Eighty out of 10,000 women have breast cancer. Of those women, 72 (90% of 80) will test positive during a mammogram. Of the remaining 9,920 healthy women, about 694 (7%) will also have a positive mammogram test. The total number of women with a positive test is 766. Of those 766 women, only 72 have breast cancer, which is about 9%. The following diagram will help you track the numbers.
+Prof. Gerd Gigerenzer gave this quiz to numerous students, physicians, and professors. Most of them failed this quiz. The correct answer is 9%. The probability that a healthy woman has a breast cancer if she has a positive mammogram test is only nine percent! This means that ninety percent of women who get a positive result will undergo stressful and painful series of tests only to discover that that was a false alarm. In his book "[Calculated Risks](https://www.thriftbooks.com/w/calculated-risks-how-to-know-when-numbers-deceive-you_gerd-gigerenzer/322505/#isbn=0743205561)", prof. Gigerenzer uses this low probability as a starting (but not the only) argument against the common practice of routine population-wide mammogram tests. However, I would like to propose another way to look at this problem.
+To understand my concern, let me first explain how we get the 9% figure.
+There are several ways to get to this result. One of them is as follows. Eighty out of 10,000 women have breast cancer. Of those women, 72 (90% of 80) will test positive during a mammogram. Of the remaining 9,920 healthy women, about 694 (7%) will also have a positive mammogram test. The total number of women with a positive test is 766. Of those 766 women, only 72 have breast cancer, which is about 9%. The following diagram will help you track the numbers.
 
-![Diagram that presents natural occurrence of breast cancer, and the statistics of mammogram tests](/assets/images/2018/02/mammogram_and_breast_cancer-e1519503231567.png)
+![Diagram that presents natural occurrence of breast cancer, and the statistics of mammogram tests](/assets/img/2018/02/mammogram_and_breast_cancer-e1519503231567.png){:width="960"}
 
 Nine percent is indeed a low number. If a woman gets ten mammogram tests in her lifetime, there is a 60+% chance that she will have at least one false positive test. This is not something that can be easily ignored.
 

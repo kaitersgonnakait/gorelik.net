@@ -146,7 +146,21 @@ hr {
 img {
   display: block;
   max-width: 100%;
-  margin: 0;
+  margin: auto;
+}
+
+img.alignright {
+  float: right;
+  margin: .5em 0 .5em 1em;
+}
+
+img.alignleft {
+  float: left;
+  margin: .5em 1em .5em 0;
+}
+
+.rtl-text {
+  text-align: right;
 }
 
 .notfound-wrapper {

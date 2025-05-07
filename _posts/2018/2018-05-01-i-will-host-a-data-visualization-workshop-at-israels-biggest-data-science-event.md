@@ -1,34 +1,38 @@
 ---
-layout: post
 title: "I will host a data visualization workshop at Israel’s biggest data science event"
 date: 2018-05-01
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "conference"
-  - "data-science"
-  - "data-visualisation"
-  - "data-visualization"
-  - "dataviz"
-  - "teaching"
-  - "workshop"
+ - "conference"
+ - "data-science"
+ - "data-visualisation"
+ - "data-visualization"
+ - "dataviz"
+ - "teaching"
+ - "workshop"
+layout: "post"
 ---
 
 ## TL/DR
 
- 
+ 
 
 **What**: Data Visualization from default to outstanding. Test cases of tough data visualization
 
-**Why:**  You would never settle for default settings of a machine learning algorithm. Instead, you would tweak them to obtain optimal results. Similarly, you should never stop with the default results you receive from a data visualization framework. Sadly, most of you do.
+**Why: **  You would never settle for default settings of a machine learning algorithm. Instead, you would tweak them to obtain optimal results. Similarly, you should never stop with the default results you receive from a data visualization framework. Sadly, most of you do.
 
 **When:** May 27, 2018 (a day before the DataScience summit)/ 13:00 - 16:00
 
-**Where**:  Interdisciplinary Center (IDC) at Herzliya.
+**Where**:  Interdisciplinary Center (IDC) at Herzliya.
 
 **More info**: [here](https://events.bizzabo.com/DataScienceSummit2018/agenda/speakers/264279).
 
-**Timeline**: 1. Theoretical introduction: three most common mistakes in data visualization (45 minutes) 2. Test case (LAB): Plotting several radically different time series on a single graph (45 minutes) 3. Test case (LAB): Bar chart as an effective alternative to a pie chart (45 minutes) 4. Test case (LAB): Pie chart as an effective alternative to a bar chart (45 minutes)
+**Timeline**:
+1. Theoretical introduction: three most common mistakes in data visualization (45 minutes)
+2. Test case (LAB): Plotting several radically different time series on a single graph (45 minutes)
+3. Test case (LAB): Bar chart as an effective alternative to a pie chart (45 minutes)
+4. Test case (LAB): Pie chart as an effective alternative to a bar chart (45 minutes)
 
 ## More words
 
